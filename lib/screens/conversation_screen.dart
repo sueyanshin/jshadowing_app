@@ -34,7 +34,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
       final section = provider.getSection(widget.unitId, widget.sectionId);
 
       if (section != null) {
-        provider.initAudio(section.audioAsset);
+        provider.initAudio(widget.unitId, widget.sectionId, section.audioAsset);
       }
     });
   }

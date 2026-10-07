@@ -7,14 +7,17 @@ import 'package:just_audio/just_audio.dart';
 
 class ConversationProvider extends ChangeNotifier {
   final AudioPlayer _audioPlayer = AudioPlayer();
-  LessonResponse? _lessonData;
+  List<LessonResponse>? _units;
   bool _isLoading = false;
   String? _errorMessage;
   int? _activeDialogueIndex;
   String? _currentLoadedAudioPath;
 
+  int? _currentUnitId;
+  int? _currentSectionId;
+
   // getter
-  LessonResponse? get lessonData => _lessonData;
+  List<LessonResponse>? get units => _units;
   bool get isLoading => _isLoading;
   String? get errorMessage => _errorMessage;
   AudioPlayer get audioPlayer => _audioPlayer;
@@ -27,18 +30,16 @@ class ConversationProvider extends ChangeNotifier {
   }
 
   Section? getSection(int unitId, int sectionId) {
-    if (_lessonData == null || _lessonData!.unit != unitId) return null;
     try {
-      final List<Section> sectionsList = _lessonData!.sections.cast<Section>();
-
-      return sectionsList.firstWhere((s) => s.section == sectionId);
+      final targetUnit = _units!.firstWhere((u) => u.unit == unitId);
+      return targetUnit.sections.firstWhere((s) => s.section == sectionId);
     } catch (_) {
       return null;
     }
   }
 
   Future<void> loadConversationData() async {
-    if (_lessonData != null) return;
+    if (_units != null) return;
 
     _isLoading = true;
     _errorMessage = null;
@@ -48,8 +49,10 @@ class ConversationProvider extends ChangeNotifier {
       final String jsonString = await rootBundle.loadString(
         'assets/data/data.json',
       );
-      final Map<String, dynamic> jsonData = json.decode(jsonString);
-      _lessonData = LessonResponse.fromJson(jsonData);
+      final List<dynamic> decodedList = json.decode(jsonString);
+      final parsedData = LessonListResponse.fromJsonList(decodedList);
+
+      _units = parsedData.units;
     } catch (e) {
       _errorMessage = "Failed to load data: ${e.toString()}";
     } finally {
@@ -58,7 +61,10 @@ class ConversationProvider extends ChangeNotifier {
     }
   }
 
-  Future<void> initAudio(String audioPath) async {
+  Future<void> initAudio(int unitId, int sectionId, String audioPath) async {
+    _currentUnitId = unitId;
+    _currentSectionId = sectionId;
+
     if (_currentLoadedAudioPath == audioPath) return;
 
     try {
@@ -71,21 +77,33 @@ class ConversationProvider extends ChangeNotifier {
 
   // highlight dialogue dynamically
   void _updateActiveDialogue(int currentMs) {
-    if (_lessonData == null) return;
-
-    final dialogues = _lessonData!.sections.first.dialogues;
-    int? newActiveIndex;
-    for (int i = 0; i < dialogues.length; i++) {
-      final d = dialogues[i];
-      if (currentMs >= d.startMs && currentMs <= d.endMs) {
-        newActiveIndex = i;
-        break;
-      }
+    if (_units!.isEmpty ||
+        _currentUnitId == null ||
+        _currentSectionId == null) {
+      return;
     }
+    try {
+      final targetUnit = _units!.firstWhere((u) => u.unit == _currentUnitId);
+      final targetSection = targetUnit.sections.firstWhere(
+        (s) => s.section == _currentSectionId,
+      );
 
-    if (_activeDialogueIndex != newActiveIndex) {
-      _activeDialogueIndex = newActiveIndex;
-      notifyListeners();
+      final dialogues = targetSection.dialogues;
+      int? newActiveIndex;
+      for (int i = 0; i < dialogues.length; i++) {
+        final d = dialogues[i];
+        if (currentMs >= d.startMs && currentMs <= d.endMs) {
+          newActiveIndex = i;
+          break;
+        }
+      }
+
+      if (_activeDialogueIndex != newActiveIndex) {
+        _activeDialogueIndex = newActiveIndex;
+        notifyListeners();
+      }
+    } catch (e) {
+      debugPrint("Error updating active dialogue: $e");
     }
   }
 

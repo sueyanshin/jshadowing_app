@@ -202,7 +202,7 @@
                         "furigana": "こんにちは。",
                         "myanmar": "မင်္ဂလာပါ။",
                         "start_ms": 2900,
-                        "end_ms": 2999
+                        "end_ms": 3999
                     },
                     {
                         "item_number": 1,
@@ -210,8 +210,8 @@
                         "japanese": "こんにちは。",
                         "furigana": "こんにちは。",
                         "myanmar": "မင်္ဂလာပါ။",
-                        "start_ms": 3000,
-                        "end_ms": 3100
+                        "start_ms": 4000,
+                        "end_ms": 5000
                     },
                     {
                         "item_number": 2,
@@ -219,8 +219,8 @@
                         "japanese": "先生、おはようございます。",
                         "furigana": "先生[せんせい]、おはようございます。",
                         "myanmar": "ဆရာ/မ မင်္ဂလာနံနက်ခင်းပါ။",
-                        "start_ms": 5200,
-                        "end_ms": 7200
+                        "start_ms": 7500,
+                        "end_ms": 8000
                     },
                     {
                         "item_number": 2,
@@ -228,8 +228,8 @@
                         "japanese": "おはよう。",
                         "furigana": "おはよう。",
                         "myanmar": "မင်္ဂလာနံနက်ခင်းပါ။",
-                        "start_ms": 7200,
-                        "end_ms": 8200
+                        "start_ms": 9000,
+                        "end_ms": 11000
                     },
                     {
                         "item_number": 3,
@@ -237,8 +237,8 @@
                         "japanese": "えみさん、じゃーね。",
                         "furigana": "えみさん、じゃーね。",
                         "myanmar": "အဲမိစံ၊ ဒါပဲနော်/သွားပြီနော်။",
-                        "start_ms": 9500,
-                        "end_ms": 11300
+                        "start_ms": 13000,
+                        "end_ms": 14000
                     },
                     {
                         "item_number": 3,
@@ -246,8 +246,8 @@
                         "japanese": "うん。また明日。",
                         "furigana": "うん。また明日[あした]。",
                         "myanmar": "အင်း၊ မနက်ဖြန်မှ တွေ့ကြတာပေါ့။",
-                        "start_ms": 11300,
-                        "end_ms": 12800
+                        "start_ms": 14500,
+                        "end_ms": 16000
                     },
                     {
                         "item_number": 4,
@@ -255,8 +255,8 @@
                         "japanese": "お先に失礼します。",
                         "furigana": "お先[さき]に失礼[しつれい]します。",
                         "myanmar": "ကျနော်/ကျမ ရောက်နှင့်/ပြန်နှင့်ပါရစေ။",
-                        "start_ms": 14100,
-                        "end_ms": 15800
+                        "start_ms": 18000,
+                        "end_ms": 19000
                     },
                     {
                         "item_number": 4,
@@ -264,8 +264,8 @@
                         "japanese": "お疲れさまー。",
                         "furigana": "お疲[つか]れさまー。",
                         "myanmar": "ပင်ပန်းသွားပါပြီ။",
-                        "start_ms": 15800,
-                        "end_ms": 17300
+                        "start_ms": 19500,
+                        "end_ms": 22000
                     },
                     {
                         "item_number": 5,
@@ -273,8 +273,8 @@
                         "japanese": "あ〜あ。",
                         "furigana": "あ〜あ。",
                         "myanmar": "အာ/ဟာ။",
-                        "start_ms": 18500,
-                        "end_ms": 20200
+                        "start_ms": 23000,
+                        "end_ms": 24000
                     },
                     {
                         "item_number": 5,
@@ -282,8 +282,8 @@
                         "japanese": "すみません。",
                         "furigana": "すみません。",
                         "myanmar": "တောင်းပန်ပါတယ်။ / ဆောရီးပါ။",
-                        "start_ms": 20200,
-                        "end_ms": 21700
+                        "start_ms": 24000,
+                        "end_ms": 26000
                     },
                     {
                         "item_number": 6,
@@ -291,8 +291,8 @@
                         "japanese": "行ってきます。",
                         "furigana": "行[い]ってきます。",
                         "myanmar": "သွားလိုက်ပါဦးမယ်။",
-                        "start_ms": 23000,
-                        "end_ms": 24200
+                        "start_ms": 28000,
+                        "end_ms": 29000
                     },
                     {
                         "item_number": 6,
@@ -300,8 +300,8 @@
                         "japanese": "行ってらっしゃい。",
                         "furigana": "行[い]ってらっしゃい。",
                         "myanmar": "ကောင်းကောင်းသွားပါ။",
-                        "start_ms": 24200,
-                        "end_ms": 25700
+                        "start_ms": 29000,
+                        "end_ms": 30000
                     },
                     {
                         "item_number": 7,
@@ -309,8 +309,8 @@
                         "japanese": "ただいまー。",
                         "furigana": "ただいまー。",
                         "myanmar": "ပြန်ရောက်ပါပြီ။",
-                        "start_ms": 27000,
-                        "end_ms": 28100
+                        "start_ms": 34000,
+                        "end_ms": 34900
                     },
                     {
                         "item_number": 7,
@@ -318,8 +318,8 @@
                         "japanese": "おかえりー。",
                         "furigana": "おかえりー。",
                         "myanmar": "ပြန်လာတာ ကြိုဆိုပါတယ်။",
-                        "start_ms": 28100,
-                        "end_ms": 29300
+                        "start_ms": 35000,
+                        "end_ms": 36000
                     },
                     {
                         "item_number": 8,
@@ -327,8 +327,8 @@
                         "japanese": "どうもありがとうございます。",
                         "furigana": "どうもありがとうございます。",
                         "myanmar": "အများကြီး ကျေးဇူးတင်ပါတယ်။",
-                        "start_ms": 30600,
-                        "end_ms": 32500
+                        "start_ms": 38000,
+                        "end_ms": 39000
                     },
                     {
                         "item_number": 8,
@@ -336,8 +336,8 @@
                         "japanese": "いいえ、どういたしまして。",
                         "furigana": "いいえ、どういたしまして。",
                         "myanmar": "ရပါတယ်။ ကိစ္စမရှိပါဘူး။",
-                        "start_ms": 32500,
-                        "end_ms": 34500
+                        "start_ms": 40000,
+                        "end_ms": 42000
                     },
                     {
                         "item_number": 9,
@@ -345,8 +345,8 @@
                         "japanese": "いい天気ですね。",
                         "furigana": "いい天気[てんき]ですね。",
                         "myanmar": "ရာသီဥတု သာယာတယ်နော်။",
-                        "start_ms": 35700,
-                        "end_ms": 37200
+                        "start_ms": 44000,
+                        "end_ms": 45000
                     },
                     {
                         "item_number": 9,
@@ -354,8 +354,8 @@
                         "japanese": "ええ、そうですね。",
                         "furigana": "ええ、そうですね。",
                         "myanmar": "ဟုတ်ပ၊ ဟုတ်တယ်နော်။",
-                        "start_ms": 37200,
-                        "end_ms": 39000
+                        "start_ms": 46000,
+                        "end_ms": 47000
                     },
                     {
                         "item_number": 10,
@@ -363,8 +363,8 @@
                         "japanese": "お元気ですか？",
                         "furigana": "お元気[げんき]ですか？",
                         "myanmar": "နေကောင်းရဲ့လား။",
-                        "start_ms": 40200,
-                        "end_ms": 41500
+                        "start_ms": 50000,
+                        "end_ms": 51000
                     },
                     {
                         "item_number": 10,
@@ -372,8 +372,8 @@
                         "japanese": "はい、元気です。",
                         "furigana": "はい、元気[げんき]です。",
                         "myanmar": "ဟုတ်ကဲ့၊ နေကောင်းပါတယ်။",
-                        "start_ms": 41500,
-                        "end_ms": 43200
+                        "start_ms": 51000,
+                        "end_ms": 52500
                     }
                 ]
             },

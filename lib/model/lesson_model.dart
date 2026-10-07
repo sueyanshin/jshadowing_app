@@ -1,3 +1,17 @@
+class LessonListResponse {
+  final List<LessonResponse> units;
+
+  LessonListResponse({required this.units});
+
+  factory LessonListResponse.fromJsonList(List<dynamic> jsonList) {
+    return LessonListResponse(
+      units: jsonList
+          .map((item) => LessonResponse.fromJson(item as Map<String, dynamic>))
+          .toList(),
+    );
+  }
+}
+
 class LessonResponse {
   final int unit;
   final String unitTitle;
