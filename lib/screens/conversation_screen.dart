@@ -62,9 +62,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
       child: Scaffold(
         backgroundColor: Colors.grey[100],
         appBar: AppBar(
-          title: Text(
-            'Unit - ${widget.unitId} | Section - ${widget.sectionId}',
-          ),
+          title: Text('Unit ${widget.unitId}, Section ${widget.sectionId}'),
         ),
         body: Consumer<ConversationProvider>(
           builder: (context, provider, child) {
@@ -100,23 +98,70 @@ class _ConversationScreenState extends State<ConversationScreen> {
                     itemCount: dialogues.length,
                     itemBuilder: (context, index) {
                       final dialogue = dialogues[index];
-                      // final bool isActive =
-                      //     provider.activeDialogueIndex == index;
+
                       final bool isActive = activeIndex == index;
 
-                      return GestureDetector(
-                        onTap: () =>
-                            provider.playDialogueSegment(dialogue.startMs),
-                        child: Padding(
-                          padding: .only(bottom: 20),
-                          child: _buildAvatarAndSpeech(
-                            dialogue.speaker,
-                            dialogue.japanese,
-                            dialogue.furigana,
-                            dialogue.myanmar,
-                            isActive,
+                      final bool showItemNumberHeader =
+                          index == 0 ||
+                          dialogues[index].itemNumber !=
+                              dialogues[index - 1].itemNumber;
+
+                      return Column(
+                        children: [
+                          if (showItemNumberHeader) ...[
+                            Padding(
+                              padding: const .symmetric(vertical: 16),
+                              child: Row(
+                                children: [
+                                  const Expanded(
+                                    child: Divider(
+                                      color: Colors.grey,
+                                      thickness: 0.5,
+                                    ),
+                                  ),
+                                  Container(
+                                    padding: .symmetric(
+                                      horizontal: 12,
+                                      vertical: 4,
+                                    ),
+                                    decoration: BoxDecoration(
+                                      color: Colors.blueGrey.shade700,
+                                      borderRadius: .circular(12),
+                                    ),
+                                    child: Text(
+                                      "Conversation ${dialogue.itemNumber}",
+                                      style: TextStyle(
+                                        color: Colors.white,
+                                        fontSize: 12,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  ),
+                                  const Expanded(
+                                    child: Divider(
+                                      color: Colors.grey,
+                                      thickness: 0.5,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ],
+                          GestureDetector(
+                            onTap: () =>
+                                provider.playDialogueSegment(dialogue.startMs),
+                            child: Padding(
+                              padding: .only(bottom: 20),
+                              child: _buildAvatarAndSpeech(
+                                dialogue.speaker,
+                                dialogue.japanese,
+                                dialogue.furigana,
+                                dialogue.myanmar,
+                                isActive,
+                              ),
+                            ),
                           ),
-                        ),
+                        ],
                       );
                     },
                   ),
@@ -187,28 +232,6 @@ class _ConversationScreenState extends State<ConversationScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               mainAxisSize: MainAxisSize.min,
               children: [
-                // Text(
-                //   speech,
-                //   style: TextStyle(
-                //     fontSize: 16,
-                //     fontWeight: FontWeight.w500,
-                //     color: !speakerA && !isActive
-                //         ? Colors.white
-                //         : Colors.black87,
-                //   ),
-                //   softWrap: true,
-                // ),
-
-                // Text(
-                //   furigana,
-                //   style: TextStyle(
-                //     fontSize: 14,
-                //     color: isActive
-                //         ? Colors.black54
-                //         : (!speakerA ? Colors.white70 : Colors.grey[700]),
-                //   ),
-                //   softWrap: true,
-                // ),
                 FuriganaText(
                   text: furigana, // Passes the string containing bracket tags: "本当[ほんとう]？"
                   baseStyle: TextStyle(
@@ -251,6 +274,7 @@ class _ConversationScreenState extends State<ConversationScreen> {
             ),
           ),
         ),
+
         if (!speakerA) ...[
           const SizedBox(width: 8),
           CircleAvatar(

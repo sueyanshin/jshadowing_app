@@ -1,3 +1,5 @@
 - adjust speed
-- toggle switch to show/hide furigana
+- Furigana / Script Toggle
 - dyanmic fontsize 
+- one sentence looping
+- Streak and Study Milestones: Track daily engagement metrics using a local database solution. Providing visual counters or interactive widgets celebrating consistent study days keeps motivation high

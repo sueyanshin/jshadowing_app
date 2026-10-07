@@ -13,11 +13,9 @@ class UnitsScreen extends StatelessWidget {
         itemCount: units.length,
         itemBuilder: (context, index) {
           int unitId = units[index];
-          return Card(
-            child: ListTile(
-              title: Text("Unit - $unitId"),
-              onTap: () => context.push("/unit/$unitId"),
-            ),
+          return ListTile(
+            title: Text("Unit - $unitId"),
+            onTap: () => context.push("/unit/$unitId"),
           );
         },
       ),
