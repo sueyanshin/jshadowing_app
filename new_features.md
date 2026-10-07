@@ -1,0 +1,3 @@
+- adjust speed
+- toggle switch to show/hide furigana
+- dyanmic fontsize 

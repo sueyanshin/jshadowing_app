@@ -1,0 +1,3675 @@
+[
+    {
+        "unit": 1,
+        "unit_title": "Unit 1",
+        "sections": [
+            {
+                "section": 1,
+                "section_title": "Section 1",
+                "audio_asset": "audio/u1-s1.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "そう？",
+                        "furigana": "そう？",
+                        "myanmar": "ဟုတ်လား။",
+                        "start_ms": 5000,
+                        "end_ms": 7000
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "そう。",
+                        "furigana": "そう。",
+                        "myanmar": "ဟုတ်တယ်။",
+                        "start_ms": 7000,
+                        "end_ms": 8000
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "え〜、どれ？ これ？",
+                        "furigana": "え〜、どれ？ これ？",
+                        "myanmar": "ဟင်၊ ဘယ်ဟာလဲ။ ဒါလား။",
+                        "start_ms": 9000,
+                        "end_ms": 12000
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "うん。それ。",
+                        "furigana": "うん。それ。",
+                        "myanmar": "အင်း။ အဲဒါ။",
+                        "start_ms": 12000,
+                        "end_ms": 14000
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "おいしい？",
+                        "furigana": "おいしい？",
+                        "myanmar": "ကောင်းရဲ့လား။ / အရသာရှိရဲ့လား။",
+                        "start_ms": 15000,
+                        "end_ms": 17000
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "うん。おいしいよ。",
+                        "furigana": "うん。おいしいよ。",
+                        "myanmar": "အင်း။ ကောင်းပါတယ်။",
+                        "start_ms": 17000,
+                        "end_ms": 19000
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "はい？",
+                        "furigana": "はい？",
+                        "myanmar": "ဗျာ/ရှင်။ (ရှင်/ဗျာ)",
+                        "start_ms": 20000,
+                        "end_ms": 22000
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "はい。",
+                        "furigana": "はい。",
+                        "myanmar": "ဟုတ်ကဲ့။",
+                        "start_ms": 22000,
+                        "end_ms": 24000
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "きれい？",
+                        "furigana": "きれい？",
+                        "myanmar": "လှရဲ့လား။",
+                        "start_ms": 24000,
+                        "end_ms": 25000
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "きれい。",
+                        "furigana": "きれい。",
+                        "myanmar": "လှတယ်။",
+                        "start_ms": 25000,
+                        "end_ms": 26000
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "本当？",
+                        "furigana": "本当[ほんとう]？",
+                        "myanmar": "တကယ်လား။",
+                        "start_ms": 28000,
+                        "end_ms": 29000
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "本当。",
+                        "furigana": "本当[ほんとう]。",
+                        "myanmar": "တကယ်။",
+                        "start_ms": 29000,
+                        "end_ms": 31000
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "田中さん？",
+                        "furigana": "田中[たなか]さん？",
+                        "myanmar": "တနခစံလား။",
+                        "start_ms": 32000,
+                        "end_ms": 34000
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "田中さん。",
+                        "furigana": "田中[たなか]さん。",
+                        "myanmar": "တနခစံပါ။",
+                        "start_ms": 34000,
+                        "end_ms": 36000
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "いい？",
+                        "furigana": "いい？",
+                        "myanmar": "ရလား။ / အဆင်ပြေရဲ့လား။",
+                        "start_ms": 37000,
+                        "end_ms": 38000
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "いいよ。",
+                        "furigana": "いいよ。",
+                        "myanmar": "ရပါတယ်။",
+                        "start_ms": 38000,
+                        "end_ms": 39000
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "ここ？",
+                        "furigana": "ここ？",
+                        "myanmar": "ဒီမှာလား။",
+                        "start_ms": 41000,
+                        "end_ms": 43000
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "うん。そこ。",
+                        "furigana": "うん。そこ。",
+                        "myanmar": "အင်း။ ဟိုမှာ။",
+                        "start_ms": 43000,
+                        "end_ms": 44000
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "わかった？",
+                        "furigana": "わかった？",
+                        "myanmar": "နားလည်လား။",
+                        "start_ms": 46000,
+                        "end_ms": 48000
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "はい。わかりました。",
+                        "furigana": "はい。わかりました。",
+                        "myanmar": "ဟုတ်ကဲ့၊ နားလည်ပါပြီ။",
+                        "start_ms": 48000,
+                        "end_ms": 50000
+                    }
+                ]
+            },
+            {
+                "section": 2,
+                "section_title": "Section 2",
+                "audio_asset": "audio/u1-s2.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "こんにちは。",
+                        "furigana": "こんにちは。",
+                        "myanmar": "မင်္ဂလာပါ။",
+                        "start_ms": 2900,
+                        "end_ms": 2999
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "こんにちは。",
+                        "furigana": "こんにちは。",
+                        "myanmar": "မင်္ဂလာပါ။",
+                        "start_ms": 3000,
+                        "end_ms": 3100
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "先生、おはようございます。",
+                        "furigana": "先生[せんせい]、おはようございます。",
+                        "myanmar": "ဆရာ/မ မင်္ဂလာနံနက်ခင်းပါ။",
+                        "start_ms": 5200,
+                        "end_ms": 7200
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "おはよう。",
+                        "furigana": "おはよう。",
+                        "myanmar": "မင်္ဂလာနံနက်ခင်းပါ။",
+                        "start_ms": 7200,
+                        "end_ms": 8200
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "えみさん、じゃーね。",
+                        "furigana": "えみさん、じゃーね。",
+                        "myanmar": "အဲမိစံ၊ ဒါပဲနော်/သွားပြီနော်။",
+                        "start_ms": 9500,
+                        "end_ms": 11300
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "うん。また明日。",
+                        "furigana": "うん。また明日[あした]。",
+                        "myanmar": "အင်း၊ မနက်ဖြန်မှ တွေ့ကြတာပေါ့။",
+                        "start_ms": 11300,
+                        "end_ms": 12800
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "お先に失礼します。",
+                        "furigana": "お先[さき]に失礼[しつれい]します。",
+                        "myanmar": "ကျနော်/ကျမ ရောက်နှင့်/ပြန်နှင့်ပါရစေ။",
+                        "start_ms": 14100,
+                        "end_ms": 15800
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "お疲れさまー。",
+                        "furigana": "お疲[つか]れさまー。",
+                        "myanmar": "ပင်ပန်းသွားပါပြီ။",
+                        "start_ms": 15800,
+                        "end_ms": 17300
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "あ〜あ。",
+                        "furigana": "あ〜あ。",
+                        "myanmar": "အာ/ဟာ။",
+                        "start_ms": 18500,
+                        "end_ms": 20200
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "すみません。",
+                        "furigana": "すみません。",
+                        "myanmar": "တောင်းပန်ပါတယ်။ / ဆောရီးပါ။",
+                        "start_ms": 20200,
+                        "end_ms": 21700
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "行ってきます。",
+                        "furigana": "行[い]ってきます。",
+                        "myanmar": "သွားလိုက်ပါဦးမယ်။",
+                        "start_ms": 23000,
+                        "end_ms": 24200
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "行ってらっしゃい。",
+                        "furigana": "行[い]ってらっしゃい。",
+                        "myanmar": "ကောင်းကောင်းသွားပါ။",
+                        "start_ms": 24200,
+                        "end_ms": 25700
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "ただいまー。",
+                        "furigana": "ただいまー。",
+                        "myanmar": "ပြန်ရောက်ပါပြီ။",
+                        "start_ms": 27000,
+                        "end_ms": 28100
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "おかえりー。",
+                        "furigana": "おかえりー。",
+                        "myanmar": "ပြန်လာတာ ကြိုဆိုပါတယ်။",
+                        "start_ms": 28100,
+                        "end_ms": 29300
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "どうもありがとうございます。",
+                        "furigana": "どうもありがとうございます。",
+                        "myanmar": "အများကြီး ကျေးဇူးတင်ပါတယ်။",
+                        "start_ms": 30600,
+                        "end_ms": 32500
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "いいえ、どういたしまして。",
+                        "furigana": "いいえ、どういたしまして。",
+                        "myanmar": "ရပါတယ်။ ကိစ္စမရှိပါဘူး။",
+                        "start_ms": 32500,
+                        "end_ms": 34500
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "いい天気ですね。",
+                        "furigana": "いい天気[てんき]ですね。",
+                        "myanmar": "ရာသီဥတု သာယာတယ်နော်။",
+                        "start_ms": 35700,
+                        "end_ms": 37200
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "ええ、そうですね。",
+                        "furigana": "ええ、そうですね。",
+                        "myanmar": "ဟုတ်ပ၊ ဟုတ်တယ်နော်။",
+                        "start_ms": 37200,
+                        "end_ms": 39000
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "お元気ですか？",
+                        "furigana": "お元気[げんき]ですか？",
+                        "myanmar": "နေကောင်းရဲ့လား။",
+                        "start_ms": 40200,
+                        "end_ms": 41500
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "はい、元気です。",
+                        "furigana": "はい、元気[げんき]です。",
+                        "myanmar": "ဟုတ်ကဲ့၊ နေကောင်းပါတယ်။",
+                        "start_ms": 41500,
+                        "end_ms": 43200
+                    }
+                ]
+            },
+            {
+                "section": 3,
+                "section_title": "Section 3",
+                "audio_asset": "audio/u1-s3.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "何時ですか？",
+                        "furigana": "何時[なんじ]ですか？",
+                        "myanmar": "ဘယ်နှစ်နာရီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "9時です。",
+                        "furigana": "9時[くじ]です。",
+                        "myanmar": "၉ နာရီပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "今、何時ですか？",
+                        "furigana": "今[いま]、何時[なんじ]ですか？",
+                        "myanmar": "အခု ဘယ်နှစ်နာရီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "4時。",
+                        "furigana": "4時[よじ]。",
+                        "myanmar": "၄ နာရီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "何時にねましたか？",
+                        "furigana": "何時[なんじ]にねましたか？",
+                        "myanmar": "ဘယ်နှစ်နာရီမှာ အိပ်ခဲ့တာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "11時半ぐらいです。",
+                        "furigana": "11時[じゅういちじ]半[はん]ぐらいです。",
+                        "myanmar": "၁၁ နာရီခွဲလောက်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "テストは何時からですか？",
+                        "furigana": "テストは何時[なんじ]からですか？",
+                        "myanmar": "စာမေးပွဲက ဘယ်နှစ်နာရီကစမှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "10時からですよ。",
+                        "furigana": "10時[じゅうじ]からですよ。",
+                        "myanmar": "၁၀ နာရီကစမှာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "今日は何日ですか？",
+                        "furigana": "今日[きょう]は何日[なんにち]ですか？",
+                        "myanmar": "ဒီနေ့ ဘယ်နှစ်ရက်နေ့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "4月1日です。",
+                        "furigana": "4月[しがつ]1日[ついたち]です。",
+                        "myanmar": "ဧပြီလ ၁ ရက်နေ့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "今日は何曜日？",
+                        "furigana": "今日[きょう]は何曜日[なんようび]？",
+                        "myanmar": "ဒီနေ့ ဘာနေ့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "水曜日だよ。",
+                        "furigana": "水曜日[すいようび]だよ。",
+                        "myanmar": "ဗုဒ္ဓဟူးနေ့လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "誕生日はいつですか？",
+                        "furigana": "誕生日[たんじょうび]はいつですか？",
+                        "myanmar": "မွေးနေ့က ဘယ်တော့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "8月20日です。",
+                        "furigana": "8月[はちがつ]20日[はつか]です。",
+                        "myanmar": "ဩဂုတ်လ ၂၀ ရက်နေ့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "銀行は何時から何時までですか？",
+                        "furigana": "銀行[ぎんこう]は何時[なんじ]から何時[なんじ]までですか？",
+                        "myanmar": "ဘဏ်က ဘယ်နှစ်နာရီကနေ ဘယ်နှစ်နာရီထိလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "9時から3時までです。",
+                        "furigana": "9時[くじ]から3時[さんじ]までです。",
+                        "myanmar": "၉ နာရီကနေ ၃ နာရီထိပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "今年は何年？",
+                        "furigana": "今年[ことし]は何年[なんねん]？",
+                        "myanmar": "ဒီနှစ်က ဘယ်နှစ်ခုနှစ်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "2006年。平成18年だよ。",
+                        "furigana": "2006年[にせんろくねん]。平成[へいせい]18年[じゅうはちねん]だよ。",
+                        "myanmar": "၂၀၀၆ ခုနှစ်။ ဟေးဆေး ၁၈ နှစ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "日本に来て、どのぐらいですか？",
+                        "furigana": "日本[にほん]に来[き]て、どのぐらいですか？",
+                        "myanmar": "ဂျပန်ကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "1年3ヶ月です。",
+                        "furigana": "1年[いちねん]3ヶ月[さんかげつ]です。",
+                        "myanmar": "၁ နှစ်နဲ့ ၃ လပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 4,
+                "section_title": "Section 4",
+                "audio_asset": "audio/u1-s4.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "はじめまして。渡辺です。",
+                        "furigana": "はじめまして。渡辺[わたなべ]です。",
+                        "myanmar": "တွေ့ရတာ ဝမ်းသာပါတယ်။ ဝါတာနာဘဲ ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "田中です。どうぞよろしく。",
+                        "furigana": "田中[たなか]です。どうぞよろしく。",
+                        "myanmar": "တနခ ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "鈴木さんですか？",
+                        "furigana": "鈴木[すずき]さんですか？",
+                        "myanmar": "ဆူဇူကီးစံ လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "はい、そうです。",
+                        "furigana": "はい、そうです。",
+                        "myanmar": "ဟုတ်ကဲ့၊ ဟုတ်ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "佐藤さんですか？",
+                        "furigana": "佐藤[さとう]さんですか？",
+                        "myanmar": "ဆာတိုးစံ လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "いいえ、加藤です。",
+                        "furigana": "いいえ、加藤[かとう]です。",
+                        "myanmar": "မဟုတ်ပါဘူး၊ ခါတိုး ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "あれは日本語で何ですか？",
+                        "furigana": "あれは日本語[にほんご]で何[なん]ですか？",
+                        "myanmar": "ဟိုဟာက ဂျပန်လို ဘာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "あれ？ あ、あれは交番ですよ。",
+                        "furigana": "あれ？ あ、あれは交番[こうばん]ですよ。",
+                        "myanmar": "ဟိုဟာလား။ ဩ၊ ဟိုဟာက ရဲစခန်း/ရဲကင်း စခန်း လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "それはなんですか？",
+                        "furigana": "それはなんですか？",
+                        "myanmar": "အဲဒါ ဘာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "デジカメです。",
+                        "furigana": "デジカメです。",
+                        "myanmar": "ဒစ်ဂျစ်တယ် ကင်မရာ ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "山田さんの部屋は何階ですか？",
+                        "furigana": "山田[やまだ]さんの部屋[へや]は何階[なんがい]ですか？",
+                        "myanmar": "ယာမာဒါစံရဲ့ အခန်းက ဘယ်နှစ်လွှာမှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "3階です。",
+                        "furigana": "3階[さんがい]です。",
+                        "myanmar": "၃ လွှာမှာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "お名前は？",
+                        "furigana": "お名前[なまえ]は？",
+                        "myanmar": "နာမည်က ဘယ်လိုခေါ်ပါသလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "ペドロです。",
+                        "furigana": "ペドロです。",
+                        "myanmar": "ပက်ဒရို ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "お国は？",
+                        "furigana": "お国[くに]は？",
+                        "myanmar": "ဘယ်နိုင်ငံကလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "スペインです。",
+                        "furigana": "スペインです。",
+                        "myanmar": "စပိန်နိုင်ငံပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "ノート、3冊ください。",
+                        "furigana": "ノート、3冊[さんさつ]ください。",
+                        "myanmar": "ဗလာစာအုပ် ၃ အုပ် ပေးပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "はい、3冊ですね。",
+                        "furigana": "はい、3冊[さんさつ]ですね。",
+                        "myanmar": "ဟုတ်ကဲ့၊ ၃ အုပ် နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "駅までどのぐらいですか？",
+                        "furigana": "駅[えき]までどのぐらいですか？",
+                        "myanmar": "ဘူတာရုံအထိ ဘယ်လောက်ဝေးလဲ/ကြာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "1キロぐらいです。",
+                        "furigana": "1[いち]キロぐらいです。",
+                        "myanmar": "၁ ကီလိုမီတာလောက်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "新宿駅はどこですか？",
+                        "furigana": "新宿駅[しんじゅくえき]はどこですか？",
+                        "myanmar": "ရှင်ဂျုကု ဘူတာရုံက ဘယ်မှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "あそこですよ。",
+                        "furigana": "あそこですよ。",
+                        "myanmar": "ဟိုမှာလေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 5,
+                "section_title": "Section 5",
+                "audio_asset": "audio/u1-s5.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "何才ですか？",
+                        "furigana": "何才[なんさい]ですか？",
+                        "myanmar": "အသက် ဘယ်လောက်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "２８才です。",
+                        "furigana": "２８才[にじゅうはっさい]です。",
+                        "myanmar": "၂၈ နှစ်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "どんな映画を見ますか？",
+                        "furigana": "どんな映画[えいが]を見[み]ますか？",
+                        "myanmar": "ဘယ်လိုရုပ်ရှင်မျိုး ကြည့်လေ့ရှိလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "コメディーをよく見ますね。",
+                        "furigana": "コメディーをよく見[み]ますね。",
+                        "myanmar": "ဟာသကား ကြည့်လေ့ရှိတာများတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "黄色と赤の花をください。",
+                        "furigana": "黄色[きいろ]と赤[あか]の花[はな]をください。",
+                        "myanmar": "အဝါရောင်နဲ့ အနီရောင် ပန်း ပေးပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "はい、黄色と赤ですね。",
+                        "furigana": "はい、黄色[きいろ]と赤[あか]ですね。",
+                        "myanmar": "ဟုတ်ကဲ့၊ အဝါရောင်နဲ့ အနီရောင် နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "今日は暑いですね。",
+                        "furigana": "今日[きょう]は暑[あつ]いですね。",
+                        "myanmar": "ဒီနေ့ ပူတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "ええ、本当に。",
+                        "furigana": "ええ、本当[ほんとう]に。",
+                        "myanmar": "ဟုတ်ပ၊ တကယ်ပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "日本語の勉強はどうですか？",
+                        "furigana": "日本語[にほんご]の勉強[べんきょう]はどうですか？",
+                        "myanmar": "ဂျပန်စာ လေ့လာရတာ ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "漢字はむずかしいですが、とてもおもしろいです。",
+                        "furigana": "漢字[かんじ]はむずかしいですが、とてもおもしろいです。",
+                        "myanmar": "ခန်ဂျိက ခက်ပေမဲ့ အင်မတန် စိတ်ဝင်စားဖို့ ကောင်းပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "いくらですか？",
+                        "furigana": "いくらですか？",
+                        "myanmar": "ဘယ်လောက်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "２１０円です。",
+                        "furigana": "２１０円[にひゃくじゅうえん]です。",
+                        "myanmar": "၂၁၀ ယန်းပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "テスト、むずかしいですか？",
+                        "furigana": "テスト、むずかしいですか？",
+                        "myanmar": "စာမေးပွဲက ခက်လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "いいえ、かんたんですよ。",
+                        "furigana": "いいえ、かんたんですよ。",
+                        "myanmar": "ဟင့်အင်း၊ လွယ်ပါတယ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "鈴木さんはどんな人ですか？",
+                        "furigana": "鈴木[すずき]さんはどんな人[ひと]ですか？",
+                        "myanmar": "ဆူဇူကီးစံ က ဘယ်လိုလူမျိုးလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "親切な人ですよ。",
+                        "furigana": "親切[しんせつ]な人[ひと]ですよ。",
+                        "myanmar": "ကြင်နာတတ်/သဘောကောင်းတဲ့ လူမျိုးပါလေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "このくつ、ちょっと大きいです。",
+                        "furigana": "このくつ、ちょっと大[おお]きいです。",
+                        "myanmar": "ဒီဖိနပ်က နည်းနည်း ကြီးနေတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "じゃー、これはどうですか？",
+                        "furigana": "じゃー、これはどうですか？",
+                        "myanmar": "ဒါဆို ဒါလေးကော ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "これ、きれいですね。",
+                        "furigana": "これ、きれいですね。",
+                        "myanmar": "ဒါလေး လှတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "ええ、とてもきれいですね。",
+                        "furigana": "ええ、とてもきれいですね。",
+                        "myanmar": "ဟုတ်တယ်၊ အင်မတန် လှတာပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 6,
+                "section_title": "Section 6",
+                "audio_asset": "audio/u1-s6.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "はじめまして。",
+                        "furigana": "はじめまして。",
+                        "myanmar": "တွေ့ရတာ ဝမ်းသာပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "はじめまして、どうぞよろしくお願いします。",
+                        "furigana": "はじめまして、どうぞよろしくお願いします。",
+                        "myanmar": "တွေ့ရတာ ဝမ်းသာပါတယ်။ ခင်ခင်မင်မင် ကူညီစောင့်ရှောက်ပေးပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "どうぞ。",
+                        "furigana": "どうぞ。",
+                        "myanmar": "ယူပါ/သုံးဆောင်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "あー、どうもすみません。いただきます。",
+                        "furigana": "あー、どうもすみません。いただきます。",
+                        "myanmar": "ဩ၊ အများကြီး ကျေးဇူးတင်ပါတယ်။ စားပါတော့မယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "お国はどちらですか？",
+                        "furigana": "お国[くに]はどちらですか？",
+                        "myanmar": "ဘယ်နိုင်ငံကလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "韓国です。",
+                        "furigana": "韓国[かんこく]です。",
+                        "myanmar": "ကိုရီးယားနိုင်ငံပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "日本は、初めてですか？",
+                        "furigana": "日本[にほん]は、初[はじ]めてですか？",
+                        "myanmar": "ဂျပန်ကို ပထမဆုံးအကြိမ် လာတာလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "いいえ、３回目です。",
+                        "furigana": "いいえ、３回目[さんかいめ]です。",
+                        "myanmar": "မဟုတ်ပါဘူး၊ ၃ ကြိမ်မြောက်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "和食は大丈夫ですか？",
+                        "furigana": "和食[わしょく]は大丈夫[だいじょうぶ]ですか？",
+                        "myanmar": "ဂျပန်အစားအစာ စားလို့ အဆင်ပြေရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "はい、大丈夫です。",
+                        "furigana": "はい、大丈夫[だいじょうぶ]です。",
+                        "myanmar": "ဟုတ်ကဲ့၊ အဆင်ပြေပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "そろそろ失礼します。",
+                        "furigana": "そろそろ失礼[しつれい]します。",
+                        "myanmar": "တော်လောက်ပြီမို့ ပြန်/ခွင့်ပြုပါဦးမယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "そうですか。じゃ、また。",
+                        "furigana": "そうですか。じゃ、また。",
+                        "myanmar": "ဟုတ်လား။ ဒါဆို နောက်မှ တွေ့ကြတာပေါ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "わ〜、おいしそう。それなんですか？",
+                        "furigana": "わ〜、おいしそう。それなんですか？",
+                        "myanmar": "ဝါး၊ စားချင်စရာလေး။ အဲဒါ ဘာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "これ？ 中国のおかし。１つどうですか？",
+                        "furigana": "これ？ 中国[ちゅうごく]のおかし。１つ[ひとつ]どうですか？",
+                        "myanmar": "ဒါလား။ တရုတ်မုန့်လေ။ တစ်ခုလောက် မြည်းကြည့်မလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "いつ日本に来たんですか？",
+                        "furigana": "いつ日本[にほん]に来[き]たんですか？",
+                        "myanmar": "ဂျပန်ကို ဘယ်တုန်းက ရောက်တာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "２ヶ月くらい前です。",
+                        "furigana": "２ヶ月[にかげつ]くらい前[まえ]です。",
+                        "myanmar": "လွန်ခဲ့တဲ့ ၂ လလောက်ကပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "今、何時？",
+                        "furigana": "今[いま]、何時[なんじ]？",
+                        "myanmar": "အခု ဘယ်နှစ်နာရီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "えーっと、４時２０分。",
+                        "furigana": "えーっと、４時[よじ]２０分[にじゅっぷん]。",
+                        "myanmar": "အင်း... ၄ နာရီ မိနစ် ၂၀။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "こんどの休み、どこ行くの？",
+                        "furigana": "こんどの休[やす]み、どこ行[い]くの？",
+                        "myanmar": "နောက်လာမယ့် ပိတ်ရက် ဘယ်သွားမှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "友だちと海に行きます。",
+                        "furigana": "友[とも]だちと海[うみ]に行[い]きます。",
+                        "myanmar": "သူငယ်ချင်းနဲ့ ပင်လယ်/ကမ်းခြေ ကို သွားမှာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 7,
+                "section_title": "Section 7",
+                "audio_asset": "audio/u1-s7.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "あのー、学校の電話番号、わかりますか？",
+                        "furigana": "あのー、学校[がっこう]の電話番号[でんわばんごう]、わかりますか？",
+                        "myanmar": "ဟိုလေ... ကျောင်းရဲ့ ဖုန်းနံပါတ် သိလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "えーっとねー、03-3205-****",
+                        "furigana": "えーっとねー、03-3205-****",
+                        "myanmar": "အင်း... ၀၃-၃၂၀၅-****",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "ビデオレンタルはいくらですか？",
+                        "furigana": "ビデオレンタルはいくらですか？",
+                        "myanmar": "ဗီဒီယို ငှားခ က ဘယ်လောက်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "一泊３５０円です。",
+                        "furigana": "一泊[いっぱく]３５０円[さんびゃくごじゅうえん]です。",
+                        "myanmar": "တစ်ညအိပ် (တစ်ရက်ငှားခ) ၃၅၀ ယန်းပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "昨日、携帯を買いました。",
+                        "furigana": "昨日[きのう]、携帯[けいたい]を買[か]いました。",
+                        "myanmar": "မနေ့က ဖုန်း ဝယ်ခဲ့တယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "へー、どこで買いましたか？",
+                        "furigana": "へー、どこで買[か]いましたか？",
+                        "myanmar": "ဟယ်... ဘယ်မှာ ဝယ်ခဲ့တာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "田中さんのうちはどこですか？",
+                        "furigana": "田中[たなか]さんのうちはどこですか？",
+                        "myanmar": "တနခစံရဲ့ အိမ်က ဘယ်မှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "新宿です。学校に近いです。",
+                        "furigana": "新宿[しんじゅく]です。学校[がっこう]に近[ちか]いです。",
+                        "myanmar": "ရှင်ဂျုကု မှာပါ။ ကျောင်းနဲ့ နီးပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "パクさんの先生はどんな人ですか？",
+                        "furigana": "パクさんの先生[せんせい]はどんな人[ひと]ですか？",
+                        "myanmar": "ပါ့ခ်စံရဲ့ ဆရာ/မ က ဘယ်လိုလူမျိုးလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "おもしろくてやさしい先生です。",
+                        "furigana": "おもしろくてやさしい先生[せんせい]です。",
+                        "myanmar": "စိတ်ဝင်စားဖို့ကောင်းပြီး ကြင်နာတတ်တဲ့ ဆရာ/မ ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "山田さん、しゅみは何ですか？",
+                        "furigana": "山田[やまだ]さん、しゅみは何[なん]ですか？",
+                        "myanmar": "ယာမာဒါစံ၊ ဝါသနာက ဘာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "しゅみ？ う〜ん、写真かな。",
+                        "furigana": "しゅみ？ う〜ん、写真[しゃしん]かな。",
+                        "myanmar": "ဝါသနာလား။ အင်း... ဓာတ်ပုံရိုက်တာ ထင်တယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "日本語の授業はどうですか？",
+                        "furigana": "日本語[にほんご]の授業[じゅぎょう]はどうですか？",
+                        "myanmar": "ဂျပန်စာ သင်တန်း/အတန်း က ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "とてもおもしろいと思います。",
+                        "furigana": "とてもおもしろいと思[おも]います。",
+                        "myanmar": "အင်မတန် စိတ်ဝင်စားဖို့ ကောင်းတယ်လို့ ထင်ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "この写真、見てください。ハワイの写真です。",
+                        "furigana": "この写真[しゃしん]、見[み]てください。ハワイの写真[しゃしん]です。",
+                        "myanmar": "ဒီဓာတ်ပုံ ကြည့်ပါဦး။ ဟာဝိုင်ယီ က ဓာတ်ပုံပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "わー、きれいな海。",
+                        "furigana": "わー、きれいな海[うみ]。",
+                        "myanmar": "ဝါး... သာယာလှပတဲ့ ပင်လယ်ပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "キムさんは日本人のボーイフレンドがいます。",
+                        "furigana": "キムさんは日本人[にほんじん]のボーイフレンドがいます。",
+                        "myanmar": "ခင်းမ်စံ မှာ ဂျပန်လူမျိုး ချစ်သူကောင်လေး ရှိတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "へー、どんな人ですか？",
+                        "furigana": "へー、どんな人[ひと]ですか？",
+                        "myanmar": "ဟယ်... ဘယ်လိုလူမျိုးလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "親切な人です。それから、韓国語がわかります。",
+                        "furigana": "親切[しんせつ]な人[ひと]です。それから、韓国語[かんこくご]がわかります。",
+                        "myanmar": "ကြင်နာတတ်တဲ့သူပါ။ ဒါ့အပြင် ကိုရီးယားဘာသာစကားလည်း နားလည်တယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "カラオケ！ カラオケ！ どうですか？ １時間1500円です。",
+                        "furigana": "カラオケ！ カラオケ！ どうですか？ １時間[いちじかん]1500円[せんごひゃくえん]です。",
+                        "myanmar": "ခာရာအိုကေ! ခာရာအိုကေ! သွားမလား။ ၁ နာရီကို ၁၅၀၀ ယန်းပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "う〜ん。ちょっとね〜。新宿のカラオケの方が安いですね。",
+                        "furigana": "う〜ん。ちょっとね〜。新宿[しんじゅく]のカラオケの方[ほう]が安[やす]いですね。",
+                        "myanmar": "အင်း... နည်းနည်းတော့... ရှင်ဂျုကု က ခာရာအိုကေ က ပိုဈေးသက်သာတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "あ、そうですか。じゃ、１時間1300円でどうですか？",
+                        "furigana": "あ、そうですか。じゃ、１時間[いちじかん]1300円[せんさんびゃくえん]でどうですか？",
+                        "myanmar": "ဩ... ဟုတ်လား။ ဒါဆို ၁ နာရီကို ၁၃၀၀ ယန်းဆို ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "う〜ん。まだちょっと高いですね〜。",
+                        "furigana": "う〜ん。まだちょっと高[たか]いですね〜。",
+                        "myanmar": "အင်း... လောလောဆယ် နည်းနည်း ဈေးကြီးသေးတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 8,
+                "section_title": "Section 8",
+                "audio_asset": "audio/u1-s8.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "木村さんの彼はどんな人ですか？",
+                        "furigana": "木村[きむら]さんの彼[かれ]はどんな人[ひと]ですか？",
+                        "myanmar": "ခိမူရစံရဲ့ ရည်းစားက ဘယ်လိုလူမျိုးလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "お金持ちです。",
+                        "furigana": "お金持[かねも]ちです。",
+                        "myanmar": "သူဌေး/ချမ်းသာတဲ့သူပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "山田さんの家族はタバコを吸いますか？",
+                        "furigana": "山田[やまだ]さんの家族[かぞく]はタバコを吸[す]いますか？",
+                        "myanmar": "ယာမာဒါစံရဲ့ မိသားစုက ဆေးလိပ်သောက်လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "いいえ。だれも吸いません。",
+                        "furigana": "いいえ。だれも吸[す]いません。",
+                        "myanmar": "ဟင့်အင်း၊ ဘယ်သူမှ မသောက်ပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "ジョンさん、今日、どこで昼ご飯を食べますか？",
+                        "furigana": "ジョンさん、今日[きょう]、どこで昼[ひる]ご飯[はん]を食べ[た]ますか？",
+                        "myanmar": "ဂျွန်စံ၊ ဒီနေ့ ဘယ်မှာ နေ့လယ်စာ စားမလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "ごめーん。もう食べちゃった。",
+                        "furigana": "ごめーん。もう食[た]べちゃった。",
+                        "myanmar": "ဆောရီးနော်၊ စားပြီးသွားပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "先生、今何時ですか？",
+                        "furigana": "先生[せんせい]、今[いま]何時[なんじ]ですか？",
+                        "myanmar": "ဆရာ/မ၊ အခု ဘယ်နှစ်နာရီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "あ、時間ですね。じゃ、少し休みましょう。",
+                        "furigana": "あ、時間[じかん]ですね。じゃ、好[すこ]し休[やす]みましょう。",
+                        "myanmar": "ဩ၊ အချိန်တန်ပြီနော်။ ဒါဆို နည်းနည်း အနားယူကြတာပေါ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "いらっしゃいませ。お２人ですか？",
+                        "furigana": "いらっしゃいませ。お２人[ふたり]ですか？",
+                        "myanmar": "ကြိုဆိုပါတယ်။ ၂ ယောက်ပါလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "はい。",
+                        "furigana": "はい。",
+                        "myanmar": "ဟုတ်ကဲ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "きのうのサッカー、見ましたか？",
+                        "furigana": "きのうのサッカー、見[み]ましたか？",
+                        "myanmar": "မနေ့က ဘောလုံးပွဲ ကြည့်ခဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "ううん、あまり好きじゃないから。",
+                        "furigana": "ううん、あまり好[す]きじゃないから。",
+                        "myanmar": "ဟင့်အင်း၊ သိပ်မကြိုက်လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "うわー。そのくつ、かわいいね。",
+                        "furigana": "うわー。そのくつ、かわいいね。",
+                        "myanmar": "ဝါး... အဲဒီဖိနပ်လေး ချစ်စရာကောင်းလိုက်တာနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "本当？ ありがとう。",
+                        "furigana": "本当[ほんとう]？ ありがとう。",
+                        "myanmar": "တကယ်လား။ ကျေးဇူးပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "あれ？ 山田さん、どこ行くの？",
+                        "furigana": "あれ？ 山田[やまだ]さん、どこ行[い]くの？",
+                        "myanmar": "ဟင်၊ ယာမာဒါစံ၊ ဘယ်သွားမလို့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "ちょっとそこまで。",
+                        "furigana": "ちょっとそこまで。",
+                        "myanmar": "ခဏ ဟိုနားအထိပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "あのー、すみません。次の電車は何時に来ますか？",
+                        "furigana": "あのー、すみません。次[つぎ]の電車[でんしゃ]は何時[なんじ]に来[き]ますか？",
+                        "myanmar": "ဟိုလေ... တောင်းပန်ပါတယ်။ နောက်ရထားက ဘယ်နှစ်နာရီ လာမှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "あ、今の電車が終電です。",
+                        "furigana": "あ、今[いま]の電車[でんしゃ]が終電[しゅうでん]です。",
+                        "myanmar": "ဩ... အခု ရထားက နောက်ဆုံးရထားပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "終電？",
+                        "furigana": "終電[しゅうでん]？",
+                        "myanmar": "နောက်ဆုံးရထားလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "ええ。電車は明日の朝まで来ません。",
+                        "furigana": "ええ。電車[でんしゃ]は明日[あした]の朝[あさ]まで来[き]ません。",
+                        "myanmar": "ဟုတ်ပါတယ်။ ရထားက မနက်ဖြန်မနက်အထိ လာမှာ မဟုတ်တော့ပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "田中さんの誕生日はいつですか？",
+                        "furigana": "田中[たなか]さんの誕生日[たんじょうび]はいつですか？",
+                        "myanmar": "တနခစံရဲ့ မွေးနေ့က ဘယ်တော့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "10月15日です。",
+                        "furigana": "10月[じゅうがつ]15日[じゅうごにち]です。",
+                        "myanmar": "အောက်တိုဘာလ ၁၅ ရက်နေ့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "えー！ 私は17日です。近いのですね。",
+                        "furigana": "えー！ 私[わたし]は17日[じゅうしちにち]です。近[ちか]いですね。",
+                        "myanmar": "ဟယ်... ကျနော်/ကျမ က ၁၇ ရက်နေ့။ နီးနီးလေးပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 9,
+                "section_title": "Section 9",
+                "audio_asset": "audio/u1-s9.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "このへんに、駅、ありますか？",
+                        "furigana": "このへんに、駅[えき]、ありますか？",
+                        "myanmar": "ဒီနားမှာ ဘူတာရုံ ရှိသလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "ええ、すぐそこです。",
+                        "furigana": "ええ、すぐそこです。",
+                        "myanmar": "ဟုတ်ကဲ့၊ အဲဒီနားတင် ပါပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "その辞書はいくらですか？",
+                        "furigana": "その辞書[じしょ]はいくらですか？",
+                        "myanmar": "အဲဒီ အဘိဓာန် က ဘယ်လောက်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "３０００円です。",
+                        "furigana": "３０００円[さんぜんえん]です。",
+                        "myanmar": "၃၀၀၀ ယန်းပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "このノートはだれのですか？",
+                        "furigana": "このノートはだれのですか？",
+                        "myanmar": "ဒီ ဗလာစာအုပ်က ဘယ်သူ့ဟာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "あ、それ？ サラさんのです。",
+                        "furigana": "あ、それ？ サラさんのです。",
+                        "myanmar": "ဩ၊ အဲဒါလား။ ဆာရာစံ ရဲ့ ဟာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "山田さんの部屋は新しいですか？",
+                        "furigana": "山田[やまだ]さんの部屋[へや]は新[あたら]しいですか？",
+                        "myanmar": "ယာမာဒါစံ ရဲ့ အခန်းက သစ်သလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "いえ、古い専門です。でもきれいです。",
+                        "furigana": "いえ、古[ふる]いです。でもきれいです。",
+                        "myanmar": "ဟင့်အင်း၊ ဟောင်းပါတယ်။ ဒါပေမဲ့ သန့်ရှင်း/လှပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "田中さんの部屋はきれいですか？",
+                        "furigana": "田中[たなか]さんの部屋[へや]はきれいですか？",
+                        "myanmar": "တနခစံ ရဲ့ အခန်းက သန့်ရှင်း/လှ လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "いえ、きれいじゃありません。でも新しいです。",
+                        "furigana": "いえ、きれいじゃありません。でも新[あたら]しいです。",
+                        "myanmar": "ဟင့်အင်း၊ မသန့်ရှင်း/မလှ ပါဘူး။ ဒါပေမဲ့ သစ်ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "あ〜あ、今日は暑いですね。",
+                        "furigana": "あ〜あ、今日[きょう]は暑[あつ]いですね。",
+                        "myanmar": "အာ... ဒီနေ့ ပူတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "そうですね〜。今日もビールがおいしいですね。",
+                        "furigana": "そうですね〜。今日[きょう]もビールがおいしいですね。",
+                        "myanmar": "ဟုတ်တယ်နော်... ဒီနေ့လည်း ဘီယာ သောက်လို့ ကောင်းတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "サラさんは字がきれいですね。",
+                        "furigana": "サラさんは字[じ]がきれいですね。",
+                        "myanmar": "ဆာရာစံ က လက်ရေး လှတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "どれ？ 見せて。あ、本当だ。",
+                        "furigana": "どれ？ 見[み]せて。あ、本[ほん]当[とう]だ。",
+                        "myanmar": "ဘယ်ဟာလဲ။ ပြပါဦး။ ဩ၊ တကယ်ပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "え、アイス〜？ 寒くないですか？",
+                        "furigana": "え、アイス〜？ 寒[さむ]くないですか？",
+                        "myanmar": "ဟင်၊ ရေခဲမုန့်လား။ မအေးဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "ええ、おいしいですよ。",
+                        "furigana": "ええ、おいしいですよ。",
+                        "myanmar": "အင်း၊ ကောင်းပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "映画、どうでしたか？",
+                        "furigana": "映[えい]画[が]、どうでしたか？",
+                        "myanmar": "ရုပ်ရှင် က ဘယ်လိုလဲ/အဆင်ပြေရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "おもしろかったですよ。",
+                        "furigana": "おもしろかったですよ。",
+                        "myanmar": "ကောင်း/စိတ်ဝင်စားဖို့ကောင်း ခဲ့ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "これは何ですか？",
+                        "furigana": "これは何[なん]ですか？",
+                        "myanmar": "ဒါက ဘာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "これ？ あー、これ、お好み焼き。",
+                        "furigana": "これ？ あー、これ、お好[この]み焼[や]き。",
+                        "myanmar": "ဒါလား။ ဩ... ဒါက အိုခိုနိုမိယာကိ (ဂျပန်ပီဇာ) လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "え？ お好み？",
+                        "furigana": "え？ お好[この]み？",
+                        "myanmar": "ဟင်၊ အိုခိုနိုမိ လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "うん。お好み焼き。おいしいよ。",
+                        "furigana": "うん。お好[この]み焼[や]き。おいしいよ。",
+                        "myanmar": "အင်း၊ အိုခိုနိုမိယာကိ။ ကောင်းတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 10,
+                "section_title": "Section 10",
+                "audio_asset": "audio/u1-s10.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "あー、うまかった。",
+                        "furigana": "あー、うまかった。",
+                        "myanmar": "အား... အရသာရှိလိုက်တာ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "本当、おいしかったね。",
+                        "furigana": "本当[ほんとう]、おいしかったね。",
+                        "myanmar": "တကယ်ပဲ အရသာရှိခဲ့တယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "あー、おなかいっぱい。",
+                        "furigana": "あー、おなかいっぱい。",
+                        "myanmar": "အား... ဗိုက်ဝသွားပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "私も。",
+                        "furigana": "私[わたし]も。",
+                        "myanmar": "ကျနော်/ကျမ လည်း ဝပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "ごちそうさまでした。とってもおいしかったです。",
+                        "furigana": "ごちそうさまでした。とってもおいしかったです。",
+                        "myanmar": "ဧည့်ခံတာ ကျေးဇူးပါပဲ။ အင်မတန် အရသာရှိခဲ့ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "いいえ、どういたしまして。",
+                        "furigana": "いいえ、どういたしまして。",
+                        "myanmar": "ရပါတယ်။ ကိစ္စမရှိပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "デザート食べますか？",
+                        "furigana": "デザート食[た]べますか？",
+                        "myanmar": "အချိုပွဲ စားမလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "いいですね。",
+                        "furigana": "いいですね。",
+                        "myanmar": "ကောင်းတာပေါ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "たくさん食べてくださいね。",
+                        "furigana": "たくさん食[た]べてくださいね。",
+                        "myanmar": "များများ စားပါနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "はい、いただきまーす。",
+                        "furigana": "はい、いただきまーす。",
+                        "myanmar": "ဟုတ်ကဲ့၊ စားပါတော့မယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "この店、サービスもいいし、料理もしおいしいし…。",
+                        "furigana": "この店[みせ]、サービスもいいし、料理[りょうり]もしおいしいし…。",
+                        "myanmar": "ဒီဆိုင်က ဝန်ဆောင်မှုလည်း ကောင်းတယ်၊ ဟင်းပွဲတွေလည်း အရသာရှိတယ်...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "そうだね。また来たいね。",
+                        "furigana": "そうだね。また来[き]たいね。",
+                        "myanmar": "ဟုတ်တယ်နော်။ နောက်လည်း ထပ်လာချင်တယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "この店、どうだった？",
+                        "furigana": "この店[みせ]、どうだった？",
+                        "myanmar": "ဒီဆိုင် ဘယ်လိုလဲ/အဆင်ပြေရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "う〜ん、料理はいいけど、サービスがちょっとね…。",
+                        "furigana": "う〜ん、料理[りょうり]はいいけど、サービスがちょっとね…。",
+                        "myanmar": "အင်း... ဟင်းပွဲက အဆင်ပြေပေမဲ့ ဝန်ဆောင်မှုကတော့ နည်းနည်း အဆင်မပြေဘူး...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "これもおいしいよ。あっ、それからこれも…。",
+                        "furigana": "これもおいしいよ。あっ、それからこれも…。",
+                        "myanmar": "ဒါလေးလည်း ကောင်းတယ်နော်။ ဩ၊ ပြီးတော့ ဒါလေးလည်း...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "本当だ。おいしそう！",
+                        "furigana": "本当[ほんとう]だ。おいしそう！",
+                        "myanmar": "တကယ်ပဲ။ စားချင်စရာလေး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "これ、おいしいよ。ちょっと食べてみる？",
+                        "furigana": "これ、おいしいよ。ちょっと食[た]べてみる？",
+                        "myanmar": "ဒါလေး ကောင်းတယ်နော်။ နည်းနည်း စားကြည့်မလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "うん、ありがとう。",
+                        "furigana": "うん、ありがとう。",
+                        "myanmar": "အင်း၊ ကျေးဇူးပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "豚肉はちょっと…。",
+                        "furigana": "豚肉[ぶたにく]はちょっと…。",
+                        "myanmar": "ဝက်သားကတော့ နည်းနည်း... (မစားဘူး)။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "あ、そうなんだ。",
+                        "furigana": "あ、そうなんだ。",
+                        "myanmar": "ဩ... ဟုတ်လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "unit": 2,
+        "unit_title": "Unit 2",
+        "sections": [
+            {
+                "section": 1,
+                "section_title": "Section 1",
+                "audio_asset": "audio/u2-s1.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "どこ行くの？",
+                        "furigana": "どこ行[い]くの？",
+                        "myanmar": "ဘယ်သွားမလို့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "ちょっとそこまで。",
+                        "furigana": "ちょっとそこまで。",
+                        "myanmar": "ခဏ ဟိုနားအထိပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "どこ行くの？",
+                        "furigana": "どこ行[い]くの？",
+                        "myanmar": "ဘယ်သွားမလို့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "ちょっと、コンビニにお弁当を買いに。",
+                        "furigana": "ちょっと、コンビニにお弁[べん]当[とう]を買[か]いに。",
+                        "myanmar": "ခဏ၊ စတိုးဆိုင်ကို ထမင်းဘူး ဝယ်ဖို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "一緒にお昼食べない？",
+                        "furigana": "一[いっ]緒[しょ]にお昼[ひる]食[た]べない？",
+                        "myanmar": "အတူတူ နေ့လယ်စာ မစားဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "うん、いいね。何食べたい？",
+                        "furigana": "うん、いいね。何[なに]食[た]べたい？",
+                        "myanmar": "အင်း၊ ကောင်းတာပေါ့။ ဘာစားချင်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "一緒にお昼食べない？",
+                        "furigana": "一[いっ]緒[しょ]にお昼[ひる]食[た]べない？",
+                        "myanmar": "အတူတူ နေ့လယ်စာ မစားဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "あ、ごめん。もう食べちゃった。",
+                        "furigana": "あ、ごめん。もう食[た]べちゃった。",
+                        "myanmar": "ဩ၊ ဆောရီးနော်။ စားပြီးသွားပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "ねー、一緒にお昼食べない？",
+                        "furigana": "ねー、一[いっ]緒[しょ]にお昼[ひる]食[た]べない？",
+                        "myanmar": "ဟေ့၊ အတူတူ နေ့လယ်စာ မစားဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "あ、ちょっと待って。食べる前に友だちに電話したいんだ。",
+                        "furigana": "あ、ちょっと待[ま]って。食[た]べる前[まえ]に友[とも]だちに電[でん]話[わ]したいんだ。",
+                        "myanmar": "ဩ၊ ခဏစောင့်ပါဦး။ မစားခင် သူငယ်ချင်းကို ဖုန်းဆက်ချင်လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "ねー、何か書くものある。",
+                        "furigana": "ねー、何[なに]か書[か]くものある。",
+                        "myanmar": "ဟေ့၊ ရေးစရာတစ်ခုခု ရှိလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "え、ペン？ それとも紙？",
+                        "furigana": "え、ペン？ それとも紙[かみ]？",
+                        "myanmar": "ဟင်၊ ဘောပင်လား။ ဒါမှမဟုတ် စာရွက်လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "あ〜、飲みすぎた。ちょっと酔っぱらったよ。",
+                        "furigana": "あ〜、飲[の]みすぎた。ちょっと酔[よ]っぱらったよ。",
+                        "myanmar": "အား... အသောက်လွန်သွားပြီ။ နည်းနည်း မူးသွားပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "う〜ん。眠くなってきた。",
+                        "furigana": "う〜ん。眠[ねむ]くなってきた。",
+                        "myanmar": "အင်း... အိပ်ချင်လာပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "山田さん、おいくつですか？",
+                        "furigana": "山田[やまだ]さん、おいくつですか？",
+                        "myanmar": "ယာမာဒါစံ၊ အသက် ဘယ်လောက်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "えっ！ ひみつです。聞かないで。",
+                        "furigana": "えっ！ ひみつです。聞[き]かないで。",
+                        "myanmar": "ဟယ်... လျှို့ဝှက်ချက်ပါ။ မမေးပါနဲ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "この漢字の読みかた教えて。",
+                        "furigana": "この漢字[かんじ]の読[よ]みかた教[おし]えて。",
+                        "myanmar": "ဒီခန်ဂျိရဲ့ အဖတ်ကို ပြောပြပါဦး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "う〜ん。わかんないなー。他の人に聞いて。",
+                        "furigana": "う〜ん。わかんないなー。他[ほか]の人[ひと]に聞[き]いて。",
+                        "myanmar": "အင်း... မသိဘူးနော်။ တခြားသူကို မေးကြည့်ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "はい、もしもし。",
+                        "furigana": "はい、もしもし。",
+                        "myanmar": "ဟယ်လို။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "危ないよ。運転しながらは。",
+                        "furigana": "危[あぶ]ないよ。運[うん]転[てん]しながらは。",
+                        "myanmar": "အန္တရာယ်ရှိတယ်နော်။ ကားမောင်းရင်းနဲ့တော့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 2,
+                "section_title": "Section 2",
+                "audio_asset": "audio/u2-s2.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "昨日、暑かったね。",
+                        "furigana": "昨日[きのう]、暑[あつ]かったね。",
+                        "myanmar": "မနေ့က ပူလိုက်တာနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "本当。暑くて暑くて…。寝られなかったよ。",
+                        "furigana": "本当[ほんとう]。暑[あつ]くて暑[あつ]くて…。寝[ね]られなかったよ。",
+                        "myanmar": "တကယ်ပဲ။ ပူလွန်းလို့ အိပ်လို့တောင် မရခဲ့ဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "田中さんの彼女ってどの人ですか？",
+                        "furigana": "田中[たなか]さんの彼女[かのじょ]ってどの人[ひと]ですか？",
+                        "myanmar": "တနခစံရဲ့ ချစ်သူကောင်မလေးက ဘယ်သူလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "ほら、あそこで電話してる人。",
+                        "furigana": "ほら、あそこで電[でん]話[わ]してる人[ひと]。",
+                        "myanmar": "ဟိုမှာလေ၊ ဟိုနားမှာ ဖုန်းပြောနေတဲ့သူ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "今夜飲みに行きませんか？",
+                        "furigana": "今夜[こんや]飲[の]みに行[い]きませんか？",
+                        "myanmar": "ဒီည အသောက်သွားမလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "いいですね。行きましょう。",
+                        "furigana": "いいですね。行[い]きましょう。",
+                        "myanmar": "ကောင်းတာပေါ့။ သွားကြစို့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "ねー、パンを食べるの「を」って、パソコンでどう書くんですか？",
+                        "furigana": "ねー、パンを食[た]べるの「を」って、パソコンでどう書[か]くんですか？",
+                        "myanmar": "ဟေ့၊ \"ပန်း အို သာဘဲရု\" ရဲ့ \"wo (を)\" ကို ကွန်ပျူတာမှာ ဘယ်လိုရိုက်ရတာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "WOですよ。",
+                        "furigana": "WO[ダブルユーオー]ですよ。",
+                        "myanmar": "WO လို့ ရိုက်ရတာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "あれ？ あんまり食べないねー。",
+                        "furigana": "あれ？ あんまり食[た]べないねー。",
+                        "myanmar": "ဟင်၊ သိပ်မစားဘူးနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "う〜ん、今日はおなかの調子があまり良くないんです。",
+                        "furigana": "う〜ん、今日[きょう]はおなかの調[ちょう]子[し]があまり良[よ]くないんです。",
+                        "myanmar": "အင်း... ဒီနေ့ ဗိုက်ထဲ သိပ်မကောင်းလို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "あ〜、新しい言葉がたくさんある…。",
+                        "furigana": "あ〜、新[あたら]しい言[こと]葉[ば]がたくさんある…。",
+                        "myanmar": "အား... စကားလုံးအသစ်တွေ အများကြီးပဲ...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "本当、頭が変になりそう…。",
+                        "furigana": "本当[ほんとう]、頭[あたま]が変[へん]になりそう…。",
+                        "myanmar": "တကယ်ပဲ၊ ခေါင်းတောင် ဂျောင်းသွားတော့မယ်...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "ずいぶん涼しくなりましたね。",
+                        "furigana": "ずいぶん涼[すず]しくなりましたね。",
+                        "myanmar": "တော်တော်လေး အေးအေးဆေးဆေး/အေးမြ လာပြီနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "そうですね。",
+                        "furigana": "そうですね。",
+                        "myanmar": "ဟုတ်တယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "あれ？ ここ携帯使えないんだ。",
+                        "furigana": "あれ？ ここ携[けい]帯[たい]使[つか]えないんだ。",
+                        "myanmar": "ဟင်၊ ဒီမှာ ဖုန်းလိုင်း မမိဘူး/သုံးလို့မရဘူးပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "うん。地下だからね。",
+                        "furigana": "うん。地[ち]下[か]だからね。",
+                        "myanmar": "အင်း၊ မြေအောက်ခန်း မို့လို့လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "日本に来てどれぐらいになりますか？",
+                        "furigana": "日本[にほん]に来[き]てどれぐらいになりますか？",
+                        "myanmar": "ဂျပန်ကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "２年半になります。",
+                        "furigana": "２年[ねん]半[はん]になります。",
+                        "myanmar": "၂ နှစ်နဲ့ ခွဲ ရှိပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "山田さんはどちらにお住まいですか？",
+                        "furigana": "山田[やまだ]さんはどちらにお住[す]まいですか？",
+                        "myanmar": "ယာမာဒါစံ က ဘယ်မှာ နေထိုင်ပါသလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "この近所に住んでいます。すぐそこです。",
+                        "furigana": "この近[きん]所[じょ]に住[す]んでいます。すぐそこです。",
+                        "myanmar": "ဒီအနီးအနားမှာ နေပါတယ်။ ဒီနားလေးတင် ပါပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 3,
+                "section_title": "Section 3",
+                "audio_asset": "audio/u2-s3.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "日本語すごいね。上手になったね。",
+                        "furigana": "日本語[にほんご]すごいね。上手[じょうず]になったね。",
+                        "myanmar": "ဂျပန်စာ ကောင်းလိုက်တာ။ တော်လာပြီနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "いやー、だんだんむずかしくなってきました。",
+                        "furigana": "いやー、だんだんむずかしくなってきました。",
+                        "myanmar": "ဟာ... တဖြည်းဖြည်း ခက်လာတာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "日本語の辞書がほしいんだ。",
+                        "furigana": "日本語[にほんご]の辞書[じしょ]がほしいんだ。",
+                        "myanmar": "ဂျပန်စာ အဘိဓာန် လိုချင်လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "へー、先生に聞いてから買いに行ったら？",
+                        "furigana": "へー、先生[せんせい]に買[き]いてから買[か]いに行[い]ったら？",
+                        "myanmar": "ဟယ်... ဆရာ/မ ကို မေးပြီးမှ ဝယ်ဖို့ သွားပါလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "まだ寒い？",
+                        "furigana": "まだ寒[さむ]い？",
+                        "myanmar": "အေးသေးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "うん、このストーブ、ついてますか？",
+                        "furigana": "うん、このストーブ、ついてますか？",
+                        "myanmar": "အင်း၊ ဒီ မီးဖို ပွင့်နေရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "この辺は春になるとさくらがきれいでしょうね。",
+                        "furigana": "この辺[へん]は春[はる]になるとさくらがきれいでしょうね。",
+                        "myanmar": "ဒီနားတစ်ဝိုက်က နွေဦးရောက်ရင် ဆာကူရာတွေ လှမှာပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "ええ、みごとですよ。",
+                        "furigana": "ええ、みごとですよ。",
+                        "myanmar": "ဟုတ်တယ်၊ အင်မတန် ခမ်းနားလှတာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "大阪に行ったら、知らない日本語をたくさん聞きました。",
+                        "furigana": "大阪[おおさか]に行[い]ったら、知[し]らない日本語[にほんご]をたくさん聞[き]きました。",
+                        "myanmar": "အိုဆာကာ ကို သွားတုန်းက မသိတဲ့ ဂျပန်စကားတွေ အများကြီး ကြားခဲ့ရတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "あー、それは方言ですよ。場所によって言葉がちがうんです。",
+                        "furigana": "あー、それは方言[ほうげん]ですよ。場所[ばしょ]によって言葉[ことば]がちがうんです。",
+                        "myanmar": "ဩ... အဲဒါ ဒေသန္တရစကား (ဒေသိယစကား) လေ။ နေရာကို လိုက်ပြီး စကားလုံး ကွဲပြားတာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "わー、この携帯、テレビが見られるんだ。",
+                        "furigana": "わー、この携帯[けいたい]、テレビが見[み]られるんだ。",
+                        "myanmar": "ဝါး... ဒီဖုန်းက တီဗီ ကြည့်လို့ရတာပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "うん、そうなんだ。あんまり使わないけどね。",
+                        "furigana": "うん、そうなんだ。あんまり使[つか]わないけどね。",
+                        "myanmar": "အင်း၊ ဟုတ်တယ်။ သိပ်တော့ မသုံးဖြစ်ပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "あまり飲みませんね。",
+                        "furigana": "あまり飲[の]みませんね。",
+                        "myanmar": "သိပ်မသောက်ဘူးနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "ええ。私、お酒、弱いんです。",
+                        "furigana": "ええ。私[わたし]、お酒[さけ]、弱[よわ]いんです。",
+                        "myanmar": "ဟုတ်တယ်။ ကျနော်/ကျမ က အရက်/အရက်ယမကာ မသောက်နိုင်လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "ここは勉強するところですから、寝る人は別の部屋へ行ってください。",
+                        "furigana": "ここは勉強[べんきょう]するところですから、寝[ね]る人[ひと]は別[べつ]の部屋[へや]へ行[い]ってください。",
+                        "myanmar": "ဒီနေရာက စာကျက်တဲ့နေရာ မို့လို့ အိပ်မယ့်သူက တခြားအခန်းကို သွားပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "わかりました…。",
+                        "furigana": "わかりました…。",
+                        "myanmar": "နားလည်ပါပြီ...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "あれ？ めがね…。どこいったかな〜。",
+                        "furigana": "あれ？ めがね…。どこいったかな〜。",
+                        "myanmar": "ဟင်၊ မျက်မှန်... ဘယ်ရောက်သွားပါလိမ့်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "ん？ めがね？ どっかで見見たよ。",
+                        "furigana": "ん？ めがね？ どっかで見[み]たよ。",
+                        "myanmar": "ဟင်၊ မျက်မှန်လား။ တစ်နေရာရာမှာ တွေ့လိုက်သလိုပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "あれ？ もう食べないの？",
+                        "furigana": "あれ？ もう食[た]べないの？",
+                        "myanmar": "ဟင်၊ မစားတော့ဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "うん。さっき軽ーく食べちゃったんだ。",
+                        "furigana": "うん。さっき軽[かる]ーく食[た]べちゃったんだ。",
+                        "myanmar": "အင်း၊ ခုနက ပေါ့ပေါ့ပါးပါး စားလိုက်လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 4,
+                "section_title": "Section 4",
+                "audio_asset": "audio/u2-s4.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "いつも日曜日、何をしているの？",
+                        "furigana": "いつも日曜日[にちようび]、何[なに]をしているの？",
+                        "myanmar": "တနင်္ဂနွေနေ့တိုင်း ဘာလုပ်လေ့ရှိလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "うーん、テレビ見たりマンガ読んだり…。ゴロゴロしてるよ。",
+                        "furigana": "うーん、テレビ見[み]たりマンガ読[よ]んだり…。ゴロゴロしてるよ。",
+                        "myanmar": "အင်း... တီဗီကြည့်လိုက်၊ ကာတွန်းဖတ်လိုက်နဲ့... လှဲနှောင်းပြီး အနားယူနေတတ်ပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "ねー、このCDなんでこんなに安いんだろう？",
+                        "furigana": "ねー、このCD[シーディー]なんでこんなに安[やす]いんだろう？",
+                        "myanmar": "ဟေ့၊ ဒီ CD က ဘာလို့ ဒီလောက်တောင် ဈေးပေါနေတာပါလိမ့်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "うん、なんでだろうね。偽物かもね。",
+                        "furigana": "うん、なんでだろうね。偽物[にせもの]かもね。",
+                        "myanmar": "အင်း၊ ဘာလို့ပါလိမ့်နော်။ အတုလည်း ဖြစ်ချင်ဖြစ်မှာပေါ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "夏休みはどうするの？",
+                        "furigana": "夏休[なつやす]みはどうするの？",
+                        "myanmar": "နွေရာသီကျောင်းပိတ်ရက် ဘာလုပ်မှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "1人で中国に行くつもりです。",
+                        "furigana": "1人[ひとり]で中国[ちゅうごく]に行[い]くつもりです。",
+                        "myanmar": "တစ်ယောက်တည်း တရုတ်နိုင်ငံကို သွားဖို့ ရည်ရွယ်ထားပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "日本の生活はどう？ もうなれた？",
+                        "furigana": "日本[にほん]の生活[せいかつ]はどう？ もうなれた？",
+                        "myanmar": "ဂျပန်မှာ နေထိုင်ရတာ ဘယ်လိုလဲ။ အကျင့်ရသွားပြီလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "ええ。生のものも食べられるようになりました。",
+                        "furigana": "ええ。生[なま]のものも食[た]べられるようになりました。",
+                        "myanmar": "ဟုတ်ကဲ့။ အစိမ်းတွေကိုလည်း စားနိုင်လာပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "あ、リサさん、ひさしぶり。今、何をしているんですか？",
+                        "furigana": "あ、リサさん、ひさしぶり。今[いま]、何[なに]をしているんですか？",
+                        "myanmar": "ဩ... ရီဆာစံ၊ မတွေ့တာကြာပြီနော်။ အခု ဘာလုပ်နေတာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "新宿で英語を教えています。",
+                        "furigana": "新宿[しんじゅく]で英語[えいご]を教[おし]えています。",
+                        "myanmar": "ရှင်ဂျုကု မှာ အင်္ဂလိပ်စာ သင်ပေးနေပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "学校までどうやって来るんですか？",
+                        "furigana": "学校[がっこう]までどうやって来[く]るんですか？",
+                        "myanmar": "ကျောင်းအထိ ဘယ်လို လာတာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "うちから山手線で一本です。",
+                        "furigana": "うちから山手線[やまのてせん]で一本[いっぽん]です。",
+                        "myanmar": "အိမ်ကနေ ယာမာနိုတဲ ရထားလိုင်းနဲ့ တိုက်ရိုက် စီးလာတာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "ねー、そろそろ行時間きませんか？",
+                        "furigana": "ねー、そろそろ行[い]きませんか？",
+                        "myanmar": "ဟေ့၊ တော်လောက် ပြီမို့ သွားကြရအောင်မလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "あ、ちょっと待って。その前にトイレトイレ。",
+                        "furigana": "あ、ちょっと待[ま]って。その前[まえ]にトイレトイレ。",
+                        "myanmar": "ဩ... ခဏစောင့်ပါဦး။ မသွားခင် အိမ်သာ ခဏ သွားလိုက်ဦးမယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "ねー、もう宿題した？",
+                        "furigana": "ねー、もう宿題[しゅくだい]した？",
+                        "myanmar": "ဟေ့၊ အိမ်စာ လုပ်ပြီးပြီလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "ううん。土日にするつもりだけど。",
+                        "furigana": "ううん。土日[どにち]にするつもりだけど。",
+                        "myanmar": "ဟင့်အင်း၊ စနေတနင်္ဂနွေကျမှ လုပ်ဖို့ ရည်ရွယ်ထားတာပေမဲ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "鈴木さんはどこに住んでいるの？",
+                        "furigana": "鈴木[すずき]さんはどこに住[す]んでいるの？",
+                        "myanmar": "ဆူဇူကီးစံ က ဘယ်မှာ နေတာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "中野駅のそば。ピーターさんは？",
+                        "furigana": "中野駅[なかのえき]のそば。ピーターさんは？",
+                        "myanmar": "နာကာနို ဘူတာရုံ ဘေးမှာပါ။ ပီတာစံ ကော။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "知らない人についていっちゃダメだよ。",
+                        "furigana": "知[し]らない人[ひと]についていっちゃダメだよ。",
+                        "myanmar": "မသိတဲ့သူ နောက်ကို လိုက်သွားလို့ မရဘူးနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "はーい。",
+                        "furigana": "はーい。",
+                        "myanmar": "ဟုတ်ကဲ့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 5,
+                "section_title": "Section 5",
+                "audio_asset": "audio/u2-s5.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "すみません。ちょっと聞き取れませんでした。",
+                        "furigana": "すみません。ちょっと聞[き]き取[と]れませんでした。",
+                        "myanmar": "တောင်းပန်ပါတယ်။ နည်းနည်း သေချာ မကြားလိုက်ရပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "あ、ごめんなさい。",
+                        "furigana": "あ、ごめんなさい。",
+                        "myanmar": "ဩ၊ ဆောရီးပါနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "木村先生ってだれだっけ？",
+                        "furigana": "木村先生[きむらせんせい]ってだれだっけ？",
+                        "myanmar": "ခိမူရာဆရာ က ဘယ်သူပါလိမ့်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "ほら、めがねかけて、背が高い先生だよ。",
+                        "furigana": "ほら、めがねかけて、背[せ]が高[たか]い先生[せんせい]だよ。",
+                        "myanmar": "ဟိုလေ၊ မျက်မှန်တပ်ထားပြီး အရပ်မြင့်တဲ့ ဆရာလေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "寒くないの？",
+                        "furigana": "寒[さむ]くないの？",
+                        "myanmar": "မအေးဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "あ、大丈夫です。",
+                        "furigana": "あ、大[だい]丈[じょう]夫[ぶ]です。",
+                        "myanmar": "ဩ၊ အဆင်ပြေပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "山田さんのお別れ会、何時からだっけ？",
+                        "furigana": "山田[やまだ]さんのお別[わか]れ会[かい]、何時[なんじ]からだっけ？",
+                        "myanmar": "ယာမာဒါစံ ရဲ့ နှုတ်ဆက်ပွဲက ဘယ်နှစ်နာရီကစမှာပါလိမ့်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "明日の８時だと思うけど。",
+                        "furigana": "明日[あした]の８時[はちじ]だと思[おも]うけど。",
+                        "myanmar": "မနက်ဖြန် ၈ နာရီ ထင်တာပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "見て、この写真。",
+                        "furigana": "見[み]て、この写真[しゃしん]。",
+                        "myanmar": "ကြည့်ပါဦး၊ ဒီဓာတ်ပုံ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "あー、なつかしいね。",
+                        "furigana": "あー、なつかしいね。",
+                        "myanmar": "ဟာ... သတိရစရာလေးနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "ここのレストラン、ランチタイムはビール200円なんだって。",
+                        "furigana": "ここのレストラン、ランチタイムはビール200円[にひゃくえん]なんだって。",
+                        "myanmar": "ဒီဆိုင်က နေ့လယ်စာအချိန်မှာ ဘီယာ ၂၀၀ ယန်းတဲ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "へー、知らなかった。安いですね。",
+                        "furigana": "へー、知[し]らなかった。安[やす]いですね。",
+                        "myanmar": "ဟယ်... မသိခဲ့ဘူး။ ဈေးပေါတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "先生、どうして日本語の先生になったんですか？",
+                        "furigana": "先生[せんせい]、どうして日本語[にほんご]の先生[せんせい]になったんですか？",
+                        "myanmar": "ဆရာ/မ၊ ဘာဖြစ်လို့ ဂျပန်စာဆရာ ဖြစ်လာတာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "色々な人に会えるから楽しいと思ったんです。",
+                        "furigana": "色々[いろいろ]な人[ひと]に会[あ]えるから楽[たの]しいと思[おも]ったんです。",
+                        "myanmar": "လူအမျိုးမျိုးနဲ့ တွေ့ဆုံနိုင်လို့ ပျော်စရာကောင်းမယ်လို့ ထင်ခဲ့လို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "まだ雨、降っていますか？",
+                        "furigana": "まだ雨[あめ]、降[ふ]っていますか？",
+                        "myanmar": "မိုး ရွာနေတုန်းပဲလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "いいえ、もう降っていませんよ。",
+                        "furigana": "いいえ、もう降[ふ]っていませんよ。",
+                        "myanmar": "ဟင့်အင်း၊ မရွာတော့ပါဘူး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "愛子さん、そのスカート、とっても似合ってるね。",
+                        "furigana": "愛子[あいこ]さん、そのスカート、とっても似合[にあ]ってるね。",
+                        "myanmar": "အာအိခိုစံ၊ အဲဒီစကတ်လေးက တကယ်ကို လိုက်ဖက်တာပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "あ、そう？ どうもありがとう。",
+                        "furigana": "あ、そう？ どうもありがとう。",
+                        "myanmar": "ဩ၊ ဟုတ်လား။ အများကြီး ကျေးဇူးပါနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "まだ雨、降っていますか？",
+                        "furigana": "まだ雨[あめ]、降[ふ]っていますか？",
+                        "myanmar": "မိုး ရွာနေတုန်းပဲလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "いいえ、もうやみましたよ。",
+                        "furigana": "いいえ、もうやみましたよ。",
+                        "myanmar": "ဟင့်အင်း၊ တိတ်သွားပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 6,
+                "section_title": "Section 6",
+                "audio_asset": "audio/u2-s6.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "ねー、ねー、あのさ〜。",
+                        "furigana": "ねー、ねー、あのさ〜。",
+                        "myanmar": "ဟေ့... ဟိုလေ...",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "あ、ちょっとごめんね。後でもいい？",
+                        "furigana": "あ、ちょっとごめんね。後[あと]でもいい？",
+                        "myanmar": "ဩ၊ ခဏလောက် ဆောရီးနော်။ နောက်မှဆို ရမလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "ねーねー、今日、キムさんが初めて宿題してきたんだよ。",
+                        "furigana": "ねーねー、今日[きょう]、キムさんが初[はじ]めて宿題[しゅくだい]してきたんだよ。",
+                        "myanmar": "ဟေ့ ဟေ့၊ ဒီနေ့ ခင်းမ်စံ က ပထမဆုံးအကြိမ် အိမ်စာ လုပ်လာတယ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "へ〜！ 明日は雪だね。",
+                        "furigana": "へ〜！ 明日[あした]は雪[ゆき]だね。",
+                        "myanmar": "ဟယ်... မနက်ဖြန် မိုးသီး/နှင်းတွေ ကျတော့မှာပဲ။ (ထူးဆန်းလှချည်လား)",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "来週の土曜、映画に行くけど、一緒に行きませんか？",
+                        "furigana": "来週[らいしゅう]の土曜[どよう]、映画[えいが]に行[い]くけど、一[いっ]緒[しょ]に行[い]きませんか？",
+                        "myanmar": "နောက်အပတ် စနေနေ့ ရုပ်ရှင်သွားမလို့၊ အတူတူ မသွားဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "あ、土曜日はちょっと…。",
+                        "furigana": "あ、土曜日[どようび]はちょっと…。",
+                        "myanmar": "ဩ... စနေနေ့ကတော့ နည်းနည်း... (အဆင်မပြေလို့ပါ)။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "すみません。ちょっとよろしいですか？",
+                        "furigana": "すみません。ちょっとよろしいですか？",
+                        "myanmar": "တောင်းပန်ပါတယ်။ ခဏလောက် အဆင်ပြေရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "あ、リカルドさん、何ですか。",
+                        "furigana": "あ、リカルドさん、何[なん]ですか。",
+                        "myanmar": "ဩ... ရီခါဒိုစံ၊ ဘာကိစ္စလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "ふふ。昨日ねー、愛子さんとデートしたんだ。",
+                        "furigana": "ふふ。昨日[きのう]ねー、愛子[あいこ]さんとデートしたんだ。",
+                        "myanmar": "ဟိဟိ၊ မနေ့ကလေ အာအိခိုစံ နဲ့ ဒိတ်လုပ်ခဲ့တယ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "え〜、すごい！ で、楽しかった？ どこ行って何したの？",
+                        "furigana": "え〜、すごい！ で、楽[たの]しかった？ どこ行[い]って何[なに]したの？",
+                        "myanmar": "ဟယ်... မိုက်လိုက်တာ။ ဒါနဲ့ ပျော်ဖို့ကောင်းခဲ့လား။ ဘယ်သွားပြီး ဘာလုပ်ခဲ့တာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "今日は午後から台風が来るそうですね。",
+                        "furigana": "今日[きょう]は午後[ごご]から台風[たいふう]が来[く]るそうですね。",
+                        "myanmar": "ဒီနေ့ မွန်းလွဲပိုင်းကစပြီး မုန်တိုင်း လာမယ်လို့ ကြားတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "うん、早く帰った方がいいね。",
+                        "furigana": "うん、早[はや]く帰[かえ]った方[ほう]がいいね。",
+                        "myanmar": "အင်း၊ စောစော ပြန်တာ ပိုကောင်းမယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "ねー、まだバス来ないの？",
+                        "furigana": "ねー、まだバス来[こ]ないの？",
+                        "myanmar": "ဟေ့၊ ဘတ်စ်ကား မလာသေးဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "うん、遅いね。",
+                        "furigana": "うん、遅[おそ]いね。",
+                        "myanmar": "အင်း၊ နောက်ကျတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "あれ？ この時計、合ってる？",
+                        "furigana": "あれ？ この時[と]計[けい]、合[あ]ってる？",
+                        "myanmar": "ဟင်၊ ဒီနာရီက မှန်ရဲ့လား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "うん、私と同じだけど。",
+                        "furigana": "うん、私[わたし]のと同[おな]じだけど。",
+                        "myanmar": "အင်း၊ ငါ့ဟာနဲ့ တူတူပါပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "レポート、これでいいですか？",
+                        "furigana": "レポート、これでいいですか？",
+                        "myanmar": "အစီရင်ခံစာ (ရီပို့) ဒါဆို ရပြီလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "はい。いいようですね。がんばりましたね。",
+                        "furigana": "はい。いいようですね。がんばりましたね。",
+                        "myanmar": "ဟုတ်ကဲ့၊ အဆင်ပြေပုံရပါတယ်။ ကြိုးစားထားတာပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "明日の飲み会、来られる？",
+                        "furigana": "明日[あした]の飲[の]み会[かい]、来[こ]られる？",
+                        "myanmar": "မနက်ဖြန် အသောက်ဝိုင်း လာနိုင်မလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "うん、ちょっと遅れて行くよ。",
+                        "furigana": "うん、ちょっと遅[おく]れて行[い]くよ。",
+                        "myanmar": "အင်း၊ နည်းနည်း နောက်ကျပြီး လာခဲ့မယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 7,
+                "section_title": "Section 7",
+                "audio_asset": "audio/u2-s7.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "駅に着いたら、電話して。迎えに行くよ。",
+                        "furigana": "駅[えき]に着[つ]いたら、電[でん]話[わ]して。迎[むか]えに行[い]くよ。",
+                        "myanmar": "ဘူတာရောက်ရင် ဖုန်းဆက်လိုက်ပါ။ လာကြိုမယ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "ありがとう。よろしく！",
+                        "furigana": "ありがとう。よろしく！",
+                        "myanmar": "ကျေးဇူးပဲနော်။ အကူအညီပေးပါဦး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "お先に失礼します。",
+                        "furigana": "お先[さき]に失礼[しつれい]します。",
+                        "myanmar": "ကျနော်/ကျမ ပြန်နှင့်ပါတော့မယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "おつかれさま。",
+                        "furigana": "おつかれさま。",
+                        "myanmar": "ပင်ပန်းသွားပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "いい天気だね。",
+                        "furigana": "いい天[てん]気[き]だね。",
+                        "myanmar": "ရာသီဥတု သာယာတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "どこか行きたいね。",
+                        "furigana": "どこか行[い]きたいね。",
+                        "myanmar": "တစ်နေရာရာ သွားချင်လိုက်တာနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "まだ仕事？",
+                        "furigana": "まだ仕[し]事[ごと]？",
+                        "myanmar": "အလုပ် မပြီးသေးဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "うん、今日はまだ終われないんだ。",
+                        "furigana": "うん、今[きょう]日はまだ終[お]われないんだ。",
+                        "myanmar": "အင်း၊ ဒီနေ့ မပြီးနိုင်သေးလို့ပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "今日、何しようか。",
+                        "furigana": "今日[きょう]、何[なに]しようか。",
+                        "myanmar": "ဒီနေ့ ဘာလုပ်ကြမလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "ピザ食べながら、DVD見ようよ。",
+                        "furigana": "ピザ食[た]べながら、DVD[ディーブイディー]見[み]ようよ。",
+                        "myanmar": "ပီဇာစားရင်း DVD ကြည့်ကြရအောင်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "ワールドカップ、どこが勝つと思う？",
+                        "furigana": "ワールドカップ、どこが勝[か]つと思[おも]う？",
+                        "myanmar": "ကမ္ဘာ့ဖလားပွဲမှာ ဘယ်အသင်း နိုင်မယ်လို့ ထင်လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "うーん。どこかな。でも日本にがんばってほしいと思うよ。",
+                        "furigana": "うーん。どこかな。でも日本[にほん]にがんばってほしいと思[おも]うよ。",
+                        "myanmar": "အင်း... ဘယ်အသင်းပါလိမ့်။ ဒါပေမဲ့ ဂျပန်အသင်းကို ကြိုးစားစေချင်တယ်လို့ ထင်တာပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "すみません、道を教えてもらえませんか？",
+                        "furigana": "すみません、道[みち]を教[おし]えてもらえませんか？",
+                        "myanmar": "တောင်းပန်ပါတယ်။ လမ်း ညွှန်ပြပေးလို့ ရမလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "はい、どこですか。",
+                        "furigana": "はい、どこですか。",
+                        "myanmar": "ဟုတ်ကဲ့၊ ဘယ်နေရာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "あ、サイフ忘れちゃった！",
+                        "furigana": "あ、サイフ忘[わす]れちゃった！",
+                        "myanmar": "ဩ၊ ပိုက်ဆံအိတ် မေ့ကျန်ခဲ့ပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "貸してあげるよ。",
+                        "furigana": "貸[か]してあげるよ。",
+                        "myanmar": "ငှားပေးမယ်လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "会議が終わったら、電話してください。",
+                        "furigana": "会[かい]議[ぎ]が終[お]わったら、電[でん]話[わ]してください。",
+                        "myanmar": "အစည်းအဝေး ပြီးရင် ဖုန်းဆက်ပေးပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "わかりました。",
+                        "furigana": "わかりました。",
+                        "myanmar": "နားလည်ပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "昨日行ったレストラン、おいしかったね。",
+                        "furigana": "昨日[きのう]行[い]ったレストラン、おいしかったね。",
+                        "myanmar": "မနေ့က သွားခဲ့တဲ့ စားသောက်ဆိုင် က အရသာရှိတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "うん、特におかし（デザート）がね。",
+                        "furigana": "うん、とくにデザートがね。",
+                        "myanmar": "အင်း၊ အထူးသဖြင့် အချိုပွဲ က အဆင်ပြေတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 8,
+                "section_title": "Section 8",
+                "audio_asset": "audio/u2-s8.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "どこ行こうか？",
+                        "furigana": "どこ行[い]こうか？",
+                        "myanmar": "ဘယ်သွားကြမလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "ボーリングに行きたいなー。",
+                        "furigana": "ボーリングに行[い]きたいなー。",
+                        "myanmar": "ဘောလင်း သွားရိုက်ချင်တယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "今夜飲みに行かない？",
+                        "furigana": "今夜[こんや]飲[の]みに行[い]かない？",
+                        "myanmar": "ဒီည အသောက်သွားမလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "今夜か〜、ちょっときびしいかも。",
+                        "furigana": "今夜[こんや]か〜、ちょっときびしいかも。",
+                        "myanmar": "ဒီညလား... နည်းနည်း အဆင်မပြေလောက်ဘူး ထင်တယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "最近、暑くなってきたね。",
+                        "furigana": "最近[さいきん]、暑[あつ]くなってきたね。",
+                        "myanmar": "မကြာသေးမီက ပူလာပြီနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "もうじき夏が来るね。",
+                        "furigana": "もうじき夏[なつ]が来[く]るね。",
+                        "myanmar": "မကြာမီ နွေရာသီ ရောက်တော့မယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "ピーナッツ食べられる？",
+                        "furigana": "ピーナッツ食[た]べられる？",
+                        "myanmar": "မြေပဲ စားနိုင်လား/စားလို့ရလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "うん、大丈夫だよ。",
+                        "furigana": "うん、大[だい]丈[じょう]夫[ぶ]だよ。",
+                        "myanmar": "အင်း၊ ရပါတယ်/အဆင်ပြေပါတယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "すみません、もう少しゆっくり話してください。",
+                        "furigana": "すみません、もう少[すこ]しゆっくり話[はな]してください。",
+                        "myanmar": "တောင်းပန်ပါတယ်။ နည်းနည်းလောက် ပိုပြီး ဖြည်းဖြည်း ပြောပေးပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "あ、はい、わかりました。",
+                        "furigana": "あ、はい、わかりました。",
+                        "myanmar": "ဩ၊ ဟုတ်ကဲ့၊ နားလည်ပါပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "A",
+                        "japanese": "今週中にこの資料作らなくちゃ。",
+                        "furigana": "今週中[こんしうちゅう]にこの資料[しりょう]作[つく]らなくちゃ。",
+                        "myanmar": "ဒီအပတ်အတွင်း ဒီစာရွက်စာတမ်း/အချက်အလက်တွေ ပြုလုပ်ရမယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 6,
+                        "speaker": "B",
+                        "japanese": "がんばって！",
+                        "furigana": "がんばって！",
+                        "myanmar": "ကြိုးစားထားပါနော်/ဂန္ဂါဗတ္တဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "A",
+                        "japanese": "ケーキ作ったことありますか？",
+                        "furigana": "ケーキ作[つく]ったことありますか？",
+                        "myanmar": "ကိတ်မုန့် လုပ်ဖူးပါသလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 7,
+                        "speaker": "B",
+                        "japanese": "はい、クリスマスはいつも自分で作るんですよ。",
+                        "furigana": "はい、クリスマスはいつも自[じ]分[ぶん]で作[つく]るんですよ。",
+                        "myanmar": "ဟုတ်ကဲ့၊ ခရစ္စမတ်ဆို အမြဲတမ်း ကိုယ်တိုင် လုပ်တာပါ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "A",
+                        "japanese": "水曜日にパーティーをしようと思っています。来てくださいね。",
+                        "furigana": "水曜日[すいようび]にパーティーをしようと思[おも]っています。来[き]てくださいね。",
+                        "myanmar": "ဗုဒ္ဓဟူးနေ့မှာ ပါတီလုပ်ဖို့ စိတ်ကူးထားပါတယ်။ လာခဲ့ပါနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 8,
+                        "speaker": "B",
+                        "japanese": "はい！ 他にはだれが行きますか？",
+                        "furigana": "はい！ 他[ほか]にはだれが行[い]きますか？",
+                        "myanmar": "ဟုတ်ကဲ့။ တခြား ဘယ်သူတွေ သွားမလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "A",
+                        "japanese": "早く行こう！",
+                        "furigana": "早[はや]く行[い]こう！",
+                        "myanmar": "မြန်မြန် သွားကြရအောင်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 9,
+                        "speaker": "B",
+                        "japanese": "ちょっと待って！",
+                        "furigana": "ちょっと待[ま]って！",
+                        "myanmar": "ခဏ စောင့်ပါဦး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "A",
+                        "japanese": "かっこいい、その携帯！",
+                        "furigana": "かっこいい、その携帯[けいたい]！",
+                        "myanmar": "မိုက်လိုက်တာ၊ အဲဒီဖုန်းလေး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 10,
+                        "speaker": "B",
+                        "japanese": "ありがとう。昨日買ったばかりなんだ。",
+                        "furigana": "ありがとう。昨日[きのう]買[か]ったばかりなんだ。",
+                        "myanmar": "ကျေးဇူးပဲ။ မနေ့ကမှ ဝယ်ထားတာ လတ်လတ်ဆတ်ဆတ်ပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            },
+            {
+                "section": 9,
+                "section_title": "Section 9",
+                "audio_asset": "audio/u2-s9.mp3",
+                "dialogues": [
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "大人はいいよね。",
+                        "furigana": "大人[おとな]はいいよね。",
+                        "myanmar": "လူကြီးတွေကျ ကောင်းတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "え？ どうして？",
+                        "furigana": "え？ どうして？",
+                        "myanmar": "ဟင်၊ ဘာဖြစ်လို့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "A",
+                        "japanese": "嫌いなものを食べなくていいから。",
+                        "furigana": "嫌[きら]いなものを食[た]べなくていいから。",
+                        "myanmar": "မကြိုက်တဲ့ဟာတွေကို စားစရာ မလိုလို့လေ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 1,
+                        "speaker": "B",
+                        "japanese": "あ〜、そうだね。自由だよね。",
+                        "furigana": "あ〜、そうだね。自[じ]由[ゆう]だよね。",
+                        "myanmar": "ဩ... ဟုတ်တယ်နော်။ လွတ်လပ်တာပေါ့။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "先生、「安い」と「野菜」は似ていますね。",
+                        "furigana": "先生[せんせい]、「安[やす]い」と「野[や]菜[さい]」は似[に]ていますね。",
+                        "myanmar": "ဆရာ/မ၊ \"ယဆုအိ (ဈေးပေါသော)\" နဲ့ \"ယဆအိ (ဟင်းသီးဟင်းရွက်)\" က ဆင်တူတယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "ええ、そうですね。",
+                        "furigana": "ええ、そうですね。",
+                        "myanmar": "ဟုတ်တယ်နော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "A",
+                        "japanese": "何かいい覚え方がありますか？",
+                        "furigana": "何[なに]かいいい覚[おぼ]え方[かた]がありますか？",
+                        "myanmar": "မှတ်ရလွယ်တဲ့ နည်းလမ်းကောင်းတစ်ခုခု ရှိပါသလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 2,
+                        "speaker": "B",
+                        "japanese": "そうですね〜。「やすい」はスーパーのス、「やさい」はサラダのサ、どうですか？",
+                        "furigana": "そうですね〜。「やすい」はスーパーのス、「やさい」はサラダのサ、どうですか？",
+                        "myanmar": "ဟုတ်တယ်နော်... \"ယဆုအိ\" က စူပါမားကတ်ရဲ့ \"ဆု (ス)\"၊ \"ယဆအိ\" က ဆာလတ်သုပ်ရဲ့ \"ဆာ (サ)\" ဆိုရင် ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "あ、しまった！",
+                        "furigana": "あ、しまった！",
+                        "myanmar": "ဩ၊ ဒုက္ခပါပဲ / သွားပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "B",
+                        "japanese": "ん？ どうしたの？",
+                        "furigana": "ん？ どうしたの？",
+                        "myanmar": "ဟင်၊ ဘာဖြစ်လို့လဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 3,
+                        "speaker": "A",
+                        "japanese": "昨日した宿題、うちに忘れてきちゃった。",
+                        "furigana": "昨日[きのう]した宿題[しゅくだい]、うちに私[わす]れてきちゃった。",
+                        "myanmar": "မနေ့က လုပ်ထားတဲ့ အိမ်စာ အိမ်မှာ မေ့ကျန်ခဲ့ပြီ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "来週の土曜日、バーベキューするけど、山田さんも来ない？",
+                        "furigana": "来週[らいしゅう]の土曜日[どようび]、バーベキューするけど、山田[やまだ]さんも来[こ]ない？",
+                        "myanmar": "နောက်အပတ် စနေနေ့ ဘာဘီကျူးလုပ်မလို့၊ ယာမာဒါစံလည်း မလာဘူးလား။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "あ〜、土曜日か〜。土曜日はちょっと…。",
+                        "furigana": "あ〜、土曜日[どようび]か〜。土曜日[どようび]はちょっと…。",
+                        "myanmar": "အား... စနေနေ့လား။ စနေနေ့ကတော့ နည်းနည်း... (အဆင်မပြေလို့ပါ)။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "あ、そう。残念ね。",
+                        "furigana": "あ、そう。残[ざん]念[ねん]ね。",
+                        "myanmar": "ဩ၊ ဟုတ်လား။ နှမြောစရာပဲနော်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "うーん、だれが来るの？",
+                        "furigana": "うーん、だれが来[く]るの？",
+                        "myanmar": "အင်း... ဘယ်သူတွေ လာမှာလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "A",
+                        "japanese": "リンダさんとかホルへさんとか…。",
+                        "furigana": "リンダさんとかホルへさんとか…。",
+                        "myanmar": "လင်ဒါစံ တို့၊ ဟိုးဟေးစံ တို့ ပါ...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 4,
+                        "speaker": "B",
+                        "japanese": "へー、いいな〜。行きたいんだけどね…。",
+                        "furigana": "へー、いいな〜。行[い]きたいんだけどね…。",
+                        "myanmar": "ဟယ်... ကောင်းလိုက်တာ။ သွားချင်ပေမဲ့လည်းနော်...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "これ作ったんだ。ちょっと食べてみて！",
+                        "furigana": "これ作[つく]ったんだ。ちょっと食[た]べてみて！",
+                        "myanmar": "ဒါလေး လုပ်ထားတာ။ နည်းနည်း မြည်းကြည့်ပါဦး။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "え、パンを自分で？ すごいね。じゃ、一口。",
+                        "furigana": "え、パンを自[じ]分[ぶん]で？ すごいね。じゃ、一[ひと]口[くち]。",
+                        "myanmar": "ဟင်၊ ပေါင်မုန့်ကို ကိုယ်တိုင် လုပ်တာလား။ တော်လိုက်တာ။ ဒါဆို တစ်လုပ်လောက် မြည်းကြည့်မယ်။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "どう？",
+                        "furigana": "どう？",
+                        "myanmar": "ဘယ်လိုလဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "B",
+                        "japanese": "う〜ん。おいしいかな、まあまあ。",
+                        "furigana": "う〜ん。おいしいかな、まあまあ。",
+                        "myanmar": "အင်း... ကောင်းတယ် ပြောရမလား၊ တော်တော်အတန်ပါပဲ။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    },
+                    {
+                        "item_number": 5,
+                        "speaker": "A",
+                        "japanese": "あ、そう…。",
+                        "furigana": "あ、そう…。",
+                        "myanmar": "ဩ... ဟုတ်လား...။",
+                        "start_ms": 0,
+                        "end_ms": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
